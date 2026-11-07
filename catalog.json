@@ -1,0 +1,4572 @@
+{
+  "database_license": "ODbL-1.0",
+  "licenses": {
+    "CC0-1.0": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "CDLA-Permissive-2.0": "https://cdla.dev/permissive-2-0/",
+    "ODbL-1.0": "https://opendatacommons.org/licenses/odbl/1-0/"
+  },
+  "places": [
+    {
+      "admissionRequired": false,
+      "area": "T21",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6471805,
+        "longitude": 139.6561244
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:node:1891354183",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "松陰神社",
+      "nearest_stations": [],
+      "openingHours": null,
+      "railway_lines": [],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:node:1891354183",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/node/1891354183"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6841674,
+        "longitude": 139.7804475
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:node:2258202675",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "小網神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 265,
+          "name": "人形町 (都営地下鉄浅草線)",
+          "station_id": "osm:node:6178454127:Toei.Asakusa:6244341971"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 265,
+          "name": "人形町",
+          "station_id": "osm:node:6178454127:TokyoMetro.Hibiya:7883332074"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 336,
+          "name": "水天宮前",
+          "station_id": "osm:node:4199764307:TokyoMetro.Hanzomon:6353024190"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 410,
+          "name": "茅場町",
+          "station_id": "osm:node:6184228841:TokyoMetro.Tozai:6184201319"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 546,
+          "name": "三越前",
+          "station_id": "osm:node:6167012598:TokyoMetro.Ginza:1926189614"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 792,
+          "name": "浜町",
+          "station_id": "osm:node:6178416342:Toei.Shinjuku:1832344259"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 948,
+          "name": "東京",
+          "station_id": "osm:node:5826439470:JR-East.ChuoRapid:3589537656"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1209,
+          "name": "JR東日本神田駅",
+          "station_id": "wikidata:Q124504885"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1300,
+          "name": "大手町",
+          "station_id": "osm:node:2484571305:TokyoMetro.Marunouchi:1926277334"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1487,
+          "name": "森下",
+          "station_id": "osm:node:3387102850:Toei.Oedo:2389061878"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Asakusa",
+        "TokyoMetro.Hibiya",
+        "TokyoMetro.Hanzomon",
+        "TokyoMetro.Tozai",
+        "TokyoMetro.Ginza",
+        "Toei.Shinjuku",
+        "JR-East.ChuoRapid",
+        "JR-East.Yamanote",
+        "TokyoMetro.Marunouchi",
+        "Toei.Oedo"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:node:2258202675",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/node/2258202675"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T11",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6036879,
+        "longitude": 139.6468891
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:node:2496164448",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "等々力不動尊",
+      "nearest_stations": [],
+      "openingHours": null,
+      "railway_lines": [],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:node:2496164448",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/node/2496164448"
+        }
+      ],
+      "subcategories": [
+        "buddhist_temple"
+      ],
+      "types": [
+        "buddhist_temple"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T21",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6869591,
+        "longitude": 139.6371745
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:node:440069983",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "白山神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1383,
+          "name": "南阿佐ケ谷",
+          "station_id": "osm:node:7600174253:TokyoMetro.Marunouchi:2389061832"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "TokyoMetro.Marunouchi"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:node:440069983",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/node/440069983"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T34",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6907852,
+        "longitude": 139.8183119
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:10288254",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "猿江恩賜公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 268,
+          "name": "住吉",
+          "station_id": "osm:node:4974760537:Toei.Shinjuku:8310611473"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 268,
+          "name": "住吉",
+          "station_id": "osm:node:4974760537:TokyoMetro.Hanzomon:8031754473"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 744,
+          "name": "錦糸町",
+          "station_id": "osm:relation:11568583:JR-East.ChuoSobuLocal:7865838636"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Shinjuku",
+        "TokyoMetro.Hanzomon",
+        "JR-East.ChuoSobuLocal"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:10288254",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/10288254"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T22",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6891268,
+        "longitude": 139.6893859
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:13272644",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "新宿中央公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 171,
+          "name": "都庁前02",
+          "station_id": "osm:node:1701048270:Toei.Oedo:6203689873"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 337,
+          "name": "新宿",
+          "station_id": "osm:node:5505272438:Toei.Shinjuku:6281908902"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 527,
+          "name": "西新宿",
+          "station_id": "osm:node:6408983661:TokyoMetro.Marunouchi:1926277366"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1002,
+          "name": "JR東日本新宿駅",
+          "station_id": "wikidata:Q124265682"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1022,
+          "name": "新宿",
+          "station_id": "osm:relation:9186325:JR-East.ChuoRapid:2389061844"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1022,
+          "name": "新宿",
+          "station_id": "osm:relation:9186325:JR-East.ChuoSobuLocal:3558156200"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Fukutoshin",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1130,
+          "name": "新宿三丁目",
+          "station_id": "osm:node:2525388747:TokyoMetro.Fukutoshin:1951952383"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Oedo",
+        "Toei.Shinjuku",
+        "TokyoMetro.Marunouchi",
+        "JR-East.Yamanote",
+        "JR-East.ChuoRapid",
+        "JR-East.ChuoSobuLocal",
+        "TokyoMetro.Fukutoshin"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:13272644",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/13272644"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.715531,
+        "longitude": 139.8041684
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:14235095",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "隅田公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 707,
+          "name": "浅草",
+          "station_id": "osm:node:6237192832:TokyoMetro.Ginza:6237151014"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 758,
+          "name": "本所吾妻橋",
+          "station_id": "osm:node:6365144390:Toei.Asakusa:7868599445"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 922,
+          "name": "押上〈スカイツリー前〉",
+          "station_id": "osm:node:7486249492:TokyoMetro.Hanzomon:6417196740"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "TokyoMetro.Ginza",
+        "Toei.Asakusa",
+        "TokyoMetro.Hanzomon"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:14235095",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/14235095"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T24",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6758253,
+        "longitude": 139.8085579
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:14273608",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "木場公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 700,
+          "name": "木場",
+          "station_id": "osm:node:6184114176:TokyoMetro.Tozai:6184114157"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 922,
+          "name": "清澄白河",
+          "station_id": "osm:node:6243055684:Toei.Oedo:6243002390"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 998,
+          "name": "清澄白河",
+          "station_id": "osm:node:6243051691:TokyoMetro.Hanzomon:6243051705"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1397,
+          "name": "菊川",
+          "station_id": "osm:node:5980672459:Toei.Shinjuku:8310611467"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "TokyoMetro.Tozai",
+        "Toei.Oedo",
+        "TokyoMetro.Hanzomon",
+        "Toei.Shinjuku"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:14273608",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/14273608"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T31",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7147889,
+        "longitude": 139.5903382
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:17376006",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "善福寺公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1477,
+          "name": "西荻窪",
+          "station_id": "osm:relation:10318713:JR-East.ChuoRapid:2559434141"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1477,
+          "name": "西荻窪",
+          "station_id": "osm:relation:10318713:JR-East.ChuoSobuLocal:1942381059"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "JR-East.ChuoRapid",
+        "JR-East.ChuoSobuLocal"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:17376006",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/17376006"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T22",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6699745,
+        "longitude": 139.6963083
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:19862716",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "代々木公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 479,
+          "name": "代々木公園",
+          "station_id": "osm:node:603898298:TokyoMetro.Chiyoda:6205618550"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 576,
+          "name": "原宿駅",
+          "station_id": "wikidata:Q800894"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Fukutoshin",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 801,
+          "name": "明治神宮前〈原宿〉",
+          "station_id": "osm:node:3607529966:TokyoMetro.Fukutoshin:6178465936"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1082,
+          "name": "渋谷",
+          "station_id": "osm:node:7253067951:TokyoMetro.Hanzomon:6219656545"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1342,
+          "name": "渋谷",
+          "station_id": "osm:relation:9232101:TokyoMetro.Ginza:6219196067"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1480,
+          "name": "代々木",
+          "station_id": "osm:node:5260661559:Toei.Oedo:7093269751"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "TokyoMetro.Chiyoda",
+        "JR-East.Yamanote",
+        "TokyoMetro.Fukutoshin",
+        "TokyoMetro.Hanzomon",
+        "TokyoMetro.Ginza",
+        "Toei.Oedo"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:19862716",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/19862716"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.686472,
+        "longitude": 139.7571878
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:relation:5415394",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "皇居東御苑",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 409,
+          "name": "大手町",
+          "station_id": "osm:node:2484633967:Toei.Mita:6191069607"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 409,
+          "name": "大手町",
+          "station_id": "osm:node:2484633967:TokyoMetro.Chiyoda:6284702147"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 437,
+          "name": "竹橋",
+          "station_id": "osm:node:3777697458:TokyoMetro.Tozai:1894258040"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 507,
+          "name": "大手町",
+          "station_id": "osm:node:5247178058:TokyoMetro.Hanzomon:6284826969"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 676,
+          "name": "東京",
+          "station_id": "osm:node:2571379257:TokyoMetro.Marunouchi:4409416417"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 818,
+          "name": "東京",
+          "station_id": "osm:node:6193744450:JR-East.ChuoRapid:3589537656"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1017,
+          "name": "桜田門",
+          "station_id": "osm:node:6192655116:TokyoMetro.Yurakucho:6192618381"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1026,
+          "name": "神保町",
+          "station_id": "osm:node:1276856506:Toei.Shinjuku:1894258038"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1070,
+          "name": "JR東日本東京駅",
+          "station_id": "wikidata:Q124211552"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1303,
+          "name": "日比谷",
+          "station_id": "osm:node:6166510051:TokyoMetro.Hibiya:7883153031"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1427,
+          "name": "神田",
+          "station_id": "osm:node:4414274946:TokyoMetro.Ginza:6329162971"
+        }
+      ],
+      "openingHours": "Mar 01-Apr 14 Tu-Th,Sa-Su 09:00-17:00; Apr 15-Aug 31 Tu-Th,Sa-Su 09:00-18:00; Sep Tu-Th,Sa-Su 09:00-17:00; Oct Tu-Th,Sa-Su 09:00-16:30; Nov 01-Feb 29 Tu-Th,Sa-Su 09:00-16:00; Dec 28-Jan 03 off; Feb 23 off; Mo,Fr off",
+      "railway_lines": [
+        "Toei.Mita",
+        "TokyoMetro.Chiyoda",
+        "TokyoMetro.Tozai",
+        "TokyoMetro.Hanzomon",
+        "TokyoMetro.Marunouchi",
+        "JR-East.ChuoRapid",
+        "TokyoMetro.Yurakucho",
+        "Toei.Shinjuku",
+        "JR-East.Yamanote",
+        "TokyoMetro.Hibiya",
+        "TokyoMetro.Ginza"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:relation:5415394",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/relation/5415394"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T31",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7008599,
+        "longitude": 139.6247018
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:100013319",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "大田黒公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 496,
+          "name": "荻窪",
+          "station_id": "osm:node:2108042643:TokyoMetro.Marunouchi:6423969019"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 546,
+          "name": "荻窪",
+          "station_id": "osm:node:1477408826:JR-East.ChuoRapid:2558121936"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 546,
+          "name": "荻窪",
+          "station_id": "osm:node:1477408826:JR-East.ChuoSobuLocal:6017605833"
+        }
+      ],
+      "openingHours": "Th-Tu 09:00-17:00; We off; Dec 29-Jan 01 off",
+      "railway_lines": [
+        "TokyoMetro.Marunouchi",
+        "JR-East.ChuoRapid",
+        "JR-East.ChuoSobuLocal"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:100013319",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/100013319"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T34",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.7027062,
+        "longitude": 139.8209159
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:100599675",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "亀戸天神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 714,
+          "name": "錦糸町",
+          "station_id": "osm:node:4959710164:TokyoMetro.Hanzomon:1947633325"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 808,
+          "name": "亀戸",
+          "station_id": "osm:relation:10312437:JR-East.ChuoSobuLocal:251847636"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 876,
+          "name": "押上",
+          "station_id": "osm:node:2571389927:Toei.Asakusa:7913290542"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1494,
+          "name": "住吉",
+          "station_id": "osm:node:4974760537:Toei.Shinjuku:8310611473"
+        }
+      ],
+      "openingHours": "Mo-Su 06:00-17:00",
+      "railway_lines": [
+        "TokyoMetro.Hanzomon",
+        "JR-East.ChuoSobuLocal",
+        "Toei.Asakusa",
+        "Toei.Shinjuku"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:100599675",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/100599675"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.704607,
+        "longitude": 139.7360988
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:143516722",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "赤城神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 81,
+          "name": "神楽坂",
+          "station_id": "osm:node:6388933701:TokyoMetro.Tozai:1074739698"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 372,
+          "name": "牛込神楽坂",
+          "station_id": "osm:node:1576518234:Toei.Oedo:7761741825"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 532,
+          "name": "江戸川橋",
+          "station_id": "osm:node:3742866655:TokyoMetro.Yurakucho:6545039558"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 685,
+          "name": "飯田橋",
+          "station_id": "osm:node:4414228386:TokyoMetro.Namboku:2329712908"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 858,
+          "name": "飯田橋",
+          "station_id": "osm:relation:9189061:JR-East.ChuoSobuLocal:6186956946"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1394,
+          "name": "茗荷谷",
+          "station_id": "osm:node:5907739393:TokyoMetro.Marunouchi:6224865805"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1422,
+          "name": "市ヶ谷",
+          "station_id": "osm:node:1529100494:Toei.Shinjuku:1894258031"
+        }
+      ],
+      "openingHours": "Mo-Su 09:00-17:00",
+      "railway_lines": [
+        "TokyoMetro.Tozai",
+        "Toei.Oedo",
+        "TokyoMetro.Yurakucho",
+        "TokyoMetro.Namboku",
+        "JR-East.ChuoSobuLocal",
+        "TokyoMetro.Marunouchi",
+        "Toei.Shinjuku"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:143516722",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/143516722"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6737111,
+        "longitude": 139.7561768
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:145408909",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "日比谷公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 127,
+          "name": "日比谷",
+          "station_id": "osm:node:3949481042:TokyoMetro.Chiyoda:6193465460"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 205,
+          "name": "霞ケ関",
+          "station_id": "osm:node:7600357201:TokyoMetro.Marunouchi:6198306278"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 288,
+          "name": "日比谷",
+          "station_id": "osm:node:6166510039:TokyoMetro.Hibiya:7883153031"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 337,
+          "name": "内幸町",
+          "station_id": "osm:node:7600376817:Toei.Mita:8039179591"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 469,
+          "name": "桜田門",
+          "station_id": "osm:node:3949450520:TokyoMetro.Yurakucho:6192618381"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 650,
+          "name": "新橋",
+          "station_id": "osm:node:260424124:TokyoMetro.Ginza:1926189619"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 657,
+          "name": "JR東日本有楽町駅",
+          "station_id": "wikidata:Q124605617"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 912,
+          "name": "新橋",
+          "station_id": "osm:node:6228438481:Toei.Asakusa:6231153220"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1061,
+          "name": "汐留",
+          "station_id": "osm:node:6231360410:Toei.Oedo:6231339941"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1080,
+          "name": "東京",
+          "station_id": "osm:node:5415072300:JR-East.ChuoRapid:3589537656"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1131,
+          "name": "大手町",
+          "station_id": "osm:node:2571379258:TokyoMetro.Hanzomon:6284826969"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1348,
+          "name": "溜池山王",
+          "station_id": "osm:node:1941562065:TokyoMetro.Namboku:6202373221"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1489,
+          "name": "大手町",
+          "station_id": "osm:node:6483314687:TokyoMetro.Tozai:6188869086"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "TokyoMetro.Chiyoda",
+        "TokyoMetro.Marunouchi",
+        "TokyoMetro.Hibiya",
+        "Toei.Mita",
+        "TokyoMetro.Yurakucho",
+        "TokyoMetro.Ginza",
+        "JR-East.Yamanote",
+        "Toei.Asakusa",
+        "Toei.Oedo",
+        "JR-East.ChuoRapid",
+        "TokyoMetro.Hanzomon",
+        "TokyoMetro.Namboku",
+        "TokyoMetro.Tozai"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:145408909",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/145408909"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T32",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7220577,
+        "longitude": 139.6740165
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:145524218",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "哲学堂公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 834,
+          "name": "落合南長崎",
+          "station_id": "osm:node:7600588282:Toei.Oedo:8314631137"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Oedo"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:145524218",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/145524218"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6983842,
+        "longitude": 139.7938336
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:157050769",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "旧安田庭園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 276,
+          "name": "両国",
+          "station_id": "osm:relation:9533599:JR-East.ChuoSobuLocal:241867419"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 313,
+          "name": "両国",
+          "station_id": "osm:node:1138645902:Toei.Oedo:1947633318"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 544,
+          "name": "蔵前",
+          "station_id": "osm:node:260158786:Toei.Asakusa:7868599469"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1045,
+          "name": "馬喰横山",
+          "station_id": "osm:node:7600507530:Toei.Shinjuku:1894258043"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1280,
+          "name": "田原町",
+          "station_id": "osm:node:6329063602:TokyoMetro.Ginza:8300121097"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "JR-East.ChuoSobuLocal",
+        "Toei.Oedo",
+        "Toei.Asakusa",
+        "Toei.Shinjuku",
+        "TokyoMetro.Ginza"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:157050769",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/157050769"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": true,
+      "area": "T22",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6851027,
+        "longitude": 139.7098924
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:15772074",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "新宿御苑",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 397,
+          "name": "新宿御苑前",
+          "station_id": "osm:node:7487518127:TokyoMetro.Marunouchi:2389061854"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 456,
+          "name": "千駄ケ谷",
+          "station_id": "osm:relation:10312661:JR-East.ChuoSobuLocal:2256144254"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 520,
+          "name": "国立競技場",
+          "station_id": "osm:node:3012473517:Toei.Oedo:2389825933"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 672,
+          "name": "新宿三丁目",
+          "station_id": "osm:node:4594301701:Toei.Shinjuku:1894258032"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Fukutoshin",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 680,
+          "name": "新宿三丁目",
+          "station_id": "osm:node:2449165896:TokyoMetro.Fukutoshin:1951952383"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 699,
+          "name": "代々木駅",
+          "station_id": "wikidata:Q590162"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 927,
+          "name": "新宿",
+          "station_id": "osm:relation:9186325:JR-East.ChuoRapid:2389061844"
+        }
+      ],
+      "openingHours": "Mo off; Oct 01-Mar 14 Tu-Su 09:00-16:30; Mar 15-Jun 30 Tu-Su 09:00-18:00; Jul 01-Aug 20 Tu-Su 09:00-19:00; Aug 21-Sep 30 Tu-Su 09:00-18:00; Dec 29-Jan 03 off",
+      "railway_lines": [
+        "TokyoMetro.Marunouchi",
+        "JR-East.ChuoSobuLocal",
+        "Toei.Oedo",
+        "Toei.Shinjuku",
+        "TokyoMetro.Fukutoshin",
+        "JR-East.Yamanote",
+        "JR-East.ChuoRapid"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:15772074",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/15772074"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T12",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.610425,
+        "longitude": 139.7217201
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:169889988",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "戸越公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 624,
+          "name": "戸越",
+          "station_id": "osm:node:3736820790:Toei.Asakusa:7796047737"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1202,
+          "name": "大崎駅",
+          "station_id": "wikidata:Q801695"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Asakusa",
+        "JR-East.Yamanote"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:169889988",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/169889988"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T12",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6254208,
+        "longitude": 139.7031734
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:170295471",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "林試の森公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1420,
+          "name": "目黒",
+          "station_id": "osm:node:6221974329:Toei.Mita:4111329883"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1420,
+          "name": "目黒",
+          "station_id": "osm:node:6221974329:TokyoMetro.Namboku:4111329883"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1441,
+          "name": "JR東日本目黒駅",
+          "station_id": "wikidata:Q124645700"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "Toei.Mita",
+        "TokyoMetro.Namboku",
+        "JR-East.Yamanote"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:170295471",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/170295471"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.713454,
+        "longitude": 139.7959524
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:173154847",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "浅草寺",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 243,
+          "name": "浅草",
+          "station_id": "osm:node:4330537924:TokyoMetro.Ginza:6237151014"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 443,
+          "name": "浅草",
+          "station_id": "osm:node:6237209465:Toei.Asakusa:7868599459"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 921,
+          "name": "蔵前",
+          "station_id": "osm:node:5754017601:Toei.Oedo:2540852499"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1289,
+          "name": "入谷",
+          "station_id": "osm:node:6854522947:TokyoMetro.Hibiya:8300320724"
+        }
+      ],
+      "openingHours": "Mo-Su 06:00-17:00",
+      "railway_lines": [
+        "TokyoMetro.Ginza",
+        "Toei.Asakusa",
+        "Toei.Oedo",
+        "TokyoMetro.Hibiya"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:173154847",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/173154847"
+        }
+      ],
+      "subcategories": [
+        "buddhist_temple"
+      ],
+      "types": [
+        "buddhist_temple"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": true,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7053585,
+        "longitude": 139.7494608
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:20028327",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "小石川後楽園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 271,
+          "name": "後楽園",
+          "station_id": "osm:node:4414245069:TokyoMetro.Marunouchi:6186983784"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 294,
+          "name": "飯田橋",
+          "station_id": "osm:node:4414236592:Toei.Oedo:2389826249"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 388,
+          "name": "後楽園",
+          "station_id": "osm:node:4414245065:TokyoMetro.Namboku:6244533881"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 465,
+          "name": "水道橋",
+          "station_id": "osm:node:3777697467:Toei.Mita:1926709968"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 500,
+          "name": "飯田橋",
+          "station_id": "osm:node:2388140073:TokyoMetro.Tozai:1926376087"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 522,
+          "name": "水道橋",
+          "station_id": "osm:relation:9533659:JR-East.ChuoSobuLocal:7016046678"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 727,
+          "name": "飯田橋",
+          "station_id": "osm:node:4414236589:TokyoMetro.Yurakucho:1894258041"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1091,
+          "name": "九段下",
+          "station_id": "osm:node:3777697462:Toei.Shinjuku:6189843872"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1101,
+          "name": "九段下",
+          "station_id": "osm:node:4711800705:TokyoMetro.Hanzomon:6189843873"
+        }
+      ],
+      "openingHours": "Mo-Fr 09:00-17:00; Dec 29-Jan 01 off",
+      "railway_lines": [
+        "TokyoMetro.Marunouchi",
+        "Toei.Oedo",
+        "TokyoMetro.Namboku",
+        "Toei.Mita",
+        "TokyoMetro.Tozai",
+        "JR-East.ChuoSobuLocal",
+        "TokyoMetro.Yurakucho",
+        "Toei.Shinjuku",
+        "TokyoMetro.Hanzomon"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:20028327",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/20028327"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T32",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7039073,
+        "longitude": 139.7125781
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:209465552",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "戸山公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Fukutoshin",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 422,
+          "name": "西早稲田",
+          "station_id": "osm:node:1115025600:TokyoMetro.Fukutoshin:1951954570"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 522,
+          "name": "東新宿",
+          "station_id": "osm:node:6411462959:Toei.Oedo:2389826138"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 697,
+          "name": "早稲田",
+          "station_id": "osm:node:428506419:TokyoMetro.Tozai:1894258034"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1159,
+          "name": "新大久保駅",
+          "station_id": "wikidata:Q589599"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1422,
+          "name": "大久保",
+          "station_id": "osm:relation:10312664:JR-East.ChuoSobuLocal:7865838641"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1452,
+          "name": "新宿",
+          "station_id": "osm:node:5995890370:TokyoMetro.Marunouchi:6184943237"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1472,
+          "name": "新宿三丁目",
+          "station_id": "osm:node:3349166098:Toei.Shinjuku:1894258032"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "TokyoMetro.Fukutoshin",
+        "Toei.Oedo",
+        "TokyoMetro.Tozai",
+        "JR-East.Yamanote",
+        "JR-East.ChuoSobuLocal",
+        "TokyoMetro.Marunouchi",
+        "Toei.Shinjuku"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:209465552",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/209465552"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": true,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6798593,
+        "longitude": 139.7977156
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:22562412",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "清澄庭園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 141,
+          "name": "清澄白河",
+          "station_id": "osm:node:6243051691:Toei.Oedo:6243002390"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 141,
+          "name": "清澄白河",
+          "station_id": "osm:node:6243051691:TokyoMetro.Hanzomon:6243051705"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 822,
+          "name": "森下",
+          "station_id": "osm:node:7599042704:Toei.Shinjuku:8310611461"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 938,
+          "name": "門前仲町",
+          "station_id": "osm:node:5830055252:TokyoMetro.Tozai:6184171497"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1434,
+          "name": "人形町 (都営地下鉄浅草線)",
+          "station_id": "osm:node:6178454128:Toei.Asakusa:6244341971"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1434,
+          "name": "人形町",
+          "station_id": "osm:node:6178454128:TokyoMetro.Hibiya:7883332074"
+        }
+      ],
+      "openingHours": "Mo-Su 09:00-17:00; Dec 29-Jan 01 off",
+      "railway_lines": [
+        "Toei.Oedo",
+        "TokyoMetro.Hanzomon",
+        "Toei.Shinjuku",
+        "TokyoMetro.Tozai",
+        "Toei.Asakusa",
+        "TokyoMetro.Hibiya"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:22562412",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/22562412"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": true,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7332418,
+        "longitude": 139.746401
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:249498496",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "六義園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 209,
+          "name": "駒込",
+          "station_id": "osm:node:1742658189:TokyoMetro.Namboku:2329712992"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 383,
+          "name": "駒込駅",
+          "station_id": "wikidata:Q801032"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 595,
+          "name": "千石",
+          "station_id": "osm:node:6592298148:Toei.Mita:8037420232"
+        }
+      ],
+      "openingHours": "Mo-Su 09:00-17:00",
+      "railway_lines": [
+        "TokyoMetro.Namboku",
+        "JR-East.Yamanote",
+        "Toei.Mita"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:249498496",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/249498496"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T12",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6022886,
+        "longitude": 139.6905478
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:27719790",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "洗足池公園",
+      "nearest_stations": [],
+      "openingHours": null,
+      "railway_lines": [],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:27719790",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/27719790"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T13",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6184327,
+        "longitude": 139.7399916
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:325692053",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "品川神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1044,
+          "name": "大崎駅",
+          "station_id": "wikidata:Q801695"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "JR-East.Yamanote"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:325692053",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/325692053"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T13",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6170488,
+        "longitude": 139.7435786
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:325692055",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "荏原神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1314,
+          "name": "JR東日本品川駅",
+          "station_id": "wikidata:Q124653770"
+        }
+      ],
+      "openingHours": "Mo-Su 09:00-16:30",
+      "railway_lines": [
+        "JR-East.Yamanote"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:325692055",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/325692055"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T43",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7505735,
+        "longitude": 139.7387497
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:38017808",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "飛鳥山公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 312,
+          "name": "王子",
+          "station_id": "osm:node:5553191175:TokyoMetro.Namboku:2329713050"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1172,
+          "name": "西巣鴨",
+          "station_id": "osm:node:5819088208:Toei.Mita:8037420270"
+        }
+      ],
+      "openingHours": "Mar-Nov Mo-Su 09:00-16:30; Dec-Feb Mo-Su 09:00-16:00",
+      "railway_lines": [
+        "TokyoMetro.Namboku",
+        "Toei.Mita"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:38017808",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/38017808"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T34",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.7242509,
+        "longitude": 139.8155416
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:43837106",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "向島百花園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1400,
+          "name": "押上",
+          "station_id": "osm:node:7486249491:Toei.Asakusa:7913290542"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1400,
+          "name": "押上〈スカイツリー前〉",
+          "station_id": "osm:node:7486249491:TokyoMetro.Hanzomon:6417196740"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Asakusa",
+        "TokyoMetro.Hanzomon"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:43837106",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/43837106"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.7200041,
+        "longitude": 139.7607627
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:464629204",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "根津神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 344,
+          "name": "東大前",
+          "station_id": "osm:node:2191956453:TokyoMetro.Namboku:7278012683"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 439,
+          "name": "根津",
+          "station_id": "osm:node:2192096319:TokyoMetro.Chiyoda:7923786646"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 776,
+          "name": "白山",
+          "station_id": "osm:node:5010730530:Toei.Mita:8037420245"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1294,
+          "name": "JR東日本日暮里駅",
+          "station_id": "wikidata:Q124799406"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1346,
+          "name": "本郷三丁目",
+          "station_id": "osm:node:4414246610:Toei.Oedo:6276956065"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1475,
+          "name": "本郷三丁目",
+          "station_id": "osm:node:1817716824:TokyoMetro.Marunouchi:7911713352"
+        }
+      ],
+      "openingHours": "Mo-Su 06:00-17:00",
+      "railway_lines": [
+        "TokyoMetro.Namboku",
+        "TokyoMetro.Chiyoda",
+        "Toei.Mita",
+        "JR-East.Yamanote",
+        "Toei.Oedo",
+        "TokyoMetro.Marunouchi"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:464629204",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/464629204"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T21",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6487317,
+        "longitude": 139.6445543
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:46954688",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "世田谷八幡宮",
+      "nearest_stations": [],
+      "openingHours": null,
+      "railway_lines": [],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:46954688",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/46954688"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T22",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6750484,
+        "longitude": 139.6994785
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:469908925",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "明治神宮",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 609,
+          "name": "原宿駅",
+          "station_id": "wikidata:Q800894"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 628,
+          "name": "明治神宮前〈原宿〉",
+          "station_id": "osm:node:7684068560:TokyoMetro.Chiyoda:6178465937"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Fukutoshin",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 659,
+          "name": "北参道",
+          "station_id": "osm:node:7661833074:TokyoMetro.Fukutoshin:7775803877"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 859,
+          "name": "代々木",
+          "station_id": "osm:node:5260661559:Toei.Oedo:7093269751"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1030,
+          "name": "代々木",
+          "station_id": "osm:relation:9471770:JR-East.ChuoSobuLocal:3708279861"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1334,
+          "name": "新宿",
+          "station_id": "osm:node:1518946857:Toei.Shinjuku:6281908902"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1440,
+          "name": "表参道",
+          "station_id": "osm:node:2571357004:TokyoMetro.Hanzomon:6226170655"
+        }
+      ],
+      "openingHours": "Jan 06:40-16:20; Feb 06:20-16:50; Mar 05:40-17:20; Apr 05:10-17:50; May 05:00-18:10; Jun 05:00-18:30; Jul 05:00-18:20; Aug 05:00-18:00; Sep 05:20-17:20; Oct 05:40-16:40; Nov 06:10-16:10; Dec 06:40-16:00",
+      "railway_lines": [
+        "JR-East.Yamanote",
+        "TokyoMetro.Chiyoda",
+        "TokyoMetro.Fukutoshin",
+        "Toei.Oedo",
+        "JR-East.ChuoSobuLocal",
+        "Toei.Shinjuku",
+        "TokyoMetro.Hanzomon"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:469908925",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/469908925"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.7076842,
+        "longitude": 139.7678622
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:516751953",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "湯島天満宮",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 180,
+          "name": "湯島",
+          "station_id": "osm:node:1928271291:TokyoMetro.Chiyoda:1926239465"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 452,
+          "name": "上野御徒町",
+          "station_id": "osm:node:3259269223:Toei.Oedo:2189509309"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 452,
+          "name": "上野広小路",
+          "station_id": "osm:node:3259269223:TokyoMetro.Ginza:8300121069"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 632,
+          "name": "御徒町駅",
+          "station_id": "wikidata:Q801296"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 654,
+          "name": "仲御徒町",
+          "station_id": "osm:node:5295198141:TokyoMetro.Hibiya:6352738061"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 718,
+          "name": "本郷三丁目",
+          "station_id": "osm:node:1817716824:TokyoMetro.Marunouchi:7911713352"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 940,
+          "name": "御茶ノ水",
+          "station_id": "osm:relation:9189066:JR-East.ChuoRapid:2559434143"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 940,
+          "name": "御茶ノ水",
+          "station_id": "osm:relation:9189066:JR-East.ChuoSobuLocal:6070813705"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1211,
+          "name": "水道橋",
+          "station_id": "osm:node:3777697468:Toei.Mita:1926709968"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1305,
+          "name": "東大前",
+          "station_id": "osm:node:3558132950:TokyoMetro.Namboku:7278012683"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1397,
+          "name": "小川町",
+          "station_id": "osm:node:1635233888:Toei.Shinjuku:1894258028"
+        }
+      ],
+      "openingHours": "Mo-Su 08:00-19:30",
+      "railway_lines": [
+        "TokyoMetro.Chiyoda",
+        "Toei.Oedo",
+        "TokyoMetro.Ginza",
+        "JR-East.Yamanote",
+        "TokyoMetro.Hibiya",
+        "TokyoMetro.Marunouchi",
+        "JR-East.ChuoRapid",
+        "JR-East.ChuoSobuLocal",
+        "Toei.Mita",
+        "TokyoMetro.Namboku",
+        "Toei.Shinjuku"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:516751953",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/516751953"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6665791,
+        "longitude": 139.7721306
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:540410517",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "築地本願寺",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 93,
+          "name": "築地",
+          "station_id": "osm:node:6279624688:TokyoMetro.Hibiya:7883332060"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 406,
+          "name": "新富町",
+          "station_id": "osm:node:6279691869:TokyoMetro.Yurakucho:6274908263"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 421,
+          "name": "東銀座",
+          "station_id": "osm:node:2901061932:Toei.Asakusa:7868599312"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 432,
+          "name": "築地市場",
+          "station_id": "osm:node:2865862142:Toei.Oedo:1947633324"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 740,
+          "name": "銀座",
+          "station_id": "osm:node:2900870463:TokyoMetro.Ginza:2328213063"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1014,
+          "name": "銀座",
+          "station_id": "osm:node:3949376520:TokyoMetro.Marunouchi:6271999742"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1142,
+          "name": "日比谷",
+          "station_id": "osm:node:7600332014:TokyoMetro.Chiyoda:6193465460"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1236,
+          "name": "JR東日本有楽町駅",
+          "station_id": "wikidata:Q124605617"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1412,
+          "name": "東京",
+          "station_id": "osm:node:6397112219:JR-East.ChuoRapid:3589537656"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1465,
+          "name": "日比谷",
+          "station_id": "osm:node:6193587667:Toei.Mita:6193465466"
+        }
+      ],
+      "openingHours": "Mo-Su 09:00-21:00",
+      "railway_lines": [
+        "TokyoMetro.Hibiya",
+        "TokyoMetro.Yurakucho",
+        "Toei.Asakusa",
+        "Toei.Oedo",
+        "TokyoMetro.Ginza",
+        "TokyoMetro.Marunouchi",
+        "TokyoMetro.Chiyoda",
+        "JR-East.Yamanote",
+        "JR-East.ChuoRapid",
+        "Toei.Mita"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:540410517",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/540410517"
+        }
+      ],
+      "subcategories": [
+        "buddhist_temple"
+      ],
+      "types": [
+        "buddhist_temple"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T21",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.648682,
+        "longitude": 139.6473095
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:54150332",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "豪徳寺",
+      "nearest_stations": [],
+      "openingHours": "Mo-Su 06:00-17:00",
+      "railway_lines": [],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:54150332",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/54150332"
+        }
+      ],
+      "subcategories": [
+        "buddhist_temple"
+      ],
+      "types": [
+        "buddhist_temple"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6715882,
+        "longitude": 139.799754
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:616241895",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "富岡八幡宮",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 201,
+          "name": "門前仲町",
+          "station_id": "osm:node:5830055252:TokyoMetro.Tozai:6184171497"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 409,
+          "name": "門前仲町",
+          "station_id": "osm:node:2279256380:Toei.Oedo:7951605899"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 988,
+          "name": "清澄白河",
+          "station_id": "osm:node:6243051691:TokyoMetro.Hanzomon:6243051705"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "TokyoMetro.Tozai",
+        "Toei.Oedo",
+        "TokyoMetro.Hanzomon"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:616241895",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/616241895"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6921178,
+        "longitude": 139.7509767
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:624081603",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "北の丸公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 347,
+          "name": "九段下",
+          "station_id": "osm:node:3582801593:Toei.Shinjuku:6189843872"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 347,
+          "name": "九段下",
+          "station_id": "osm:node:3582801593:TokyoMetro.Hanzomon:6189843873"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 347,
+          "name": "九段下",
+          "station_id": "osm:node:3582801593:TokyoMetro.Tozai:6189820128"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 693,
+          "name": "神保町",
+          "station_id": "osm:node:4486431764:Toei.Mita:6186032727"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1040,
+          "name": "飯田橋",
+          "station_id": "osm:node:3021593201:Toei.Oedo:2389826249"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1129,
+          "name": "水道橋",
+          "station_id": "osm:relation:9533659:JR-East.ChuoSobuLocal:7016046678"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1154,
+          "name": "大手町",
+          "station_id": "osm:node:2484582781:TokyoMetro.Chiyoda:6284702147"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1252,
+          "name": "飯田橋",
+          "station_id": "osm:node:4414228388:TokyoMetro.Yurakucho:1894258041"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1261,
+          "name": "市ヶ谷駅",
+          "station_id": "osm:node:5038753775:TokyoMetro.Namboku:2329712819"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1394,
+          "name": "大手町",
+          "station_id": "osm:node:2484578901:TokyoMetro.Marunouchi:1926277334"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Shinjuku",
+        "TokyoMetro.Hanzomon",
+        "TokyoMetro.Tozai",
+        "Toei.Mita",
+        "Toei.Oedo",
+        "JR-East.ChuoSobuLocal",
+        "TokyoMetro.Chiyoda",
+        "TokyoMetro.Yurakucho",
+        "TokyoMetro.Namboku",
+        "TokyoMetro.Marunouchi"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:624081603",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/624081603"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T21",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.682388,
+        "longitude": 139.6411499
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:680908887",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "大宮八幡宮",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1368,
+          "name": "方南町",
+          "station_id": "osm:node:9084069910:TokyoMetro.Marunouchi:7787647713"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "TokyoMetro.Marunouchi"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:680908887",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/680908887"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6571906,
+        "longitude": 139.7482124
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:744348814",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "増上寺",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 300,
+          "name": "芝公園",
+          "station_id": "osm:node:6190245115:Toei.Mita:8025512624"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 417,
+          "name": "赤羽橋",
+          "station_id": "osm:node:6365175319:Toei.Oedo:2540852501"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 515,
+          "name": "大門",
+          "station_id": "osm:node:1668435668:Toei.Asakusa:7868599355"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 666,
+          "name": "神谷町",
+          "station_id": "osm:node:2851848520:TokyoMetro.Hibiya:8014829811"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 878,
+          "name": "浜松町駅",
+          "station_id": "wikidata:Q800873"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 982,
+          "name": "麻布十番",
+          "station_id": "osm:node:2197748582:TokyoMetro.Namboku:6509432929"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1250,
+          "name": "虎ノ門",
+          "station_id": "osm:node:7598353354:TokyoMetro.Ginza:7884488022"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "Toei.Mita",
+        "Toei.Oedo",
+        "Toei.Asakusa",
+        "TokyoMetro.Hibiya",
+        "JR-East.Yamanote",
+        "TokyoMetro.Namboku",
+        "TokyoMetro.Ginza"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:744348814",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/744348814"
+        }
+      ],
+      "subcategories": [
+        "buddhist_temple"
+      ],
+      "types": [
+        "buddhist_temple"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6555712,
+        "longitude": 139.7502668
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:745301120",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "芝公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 77,
+          "name": "芝公園",
+          "station_id": "osm:node:1482491144:Toei.Mita:8025512624"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 362,
+          "name": "大門",
+          "station_id": "osm:node:1668435668:Toei.Asakusa:7868599355"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 362,
+          "name": "大門",
+          "station_id": "osm:node:1668435668:Toei.Oedo:6279194306"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 666,
+          "name": "浜松町駅",
+          "station_id": "wikidata:Q800873"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 915,
+          "name": "神谷町",
+          "station_id": "osm:node:2851848520:TokyoMetro.Hibiya:8014829811"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1164,
+          "name": "麻布十番",
+          "station_id": "osm:node:1145077262:TokyoMetro.Namboku:6509432929"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1426,
+          "name": "虎ノ門",
+          "station_id": "osm:node:7598353354:TokyoMetro.Ginza:7884488022"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "Toei.Mita",
+        "Toei.Asakusa",
+        "Toei.Oedo",
+        "JR-East.Yamanote",
+        "TokyoMetro.Hibiya",
+        "TokyoMetro.Namboku",
+        "TokyoMetro.Ginza"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:745301120",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/745301120"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": true,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6602032,
+        "longitude": 139.7637002
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:7836744",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "浜離宮恩賜庭園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 437,
+          "name": "汐留",
+          "station_id": "osm:node:6231322489:Toei.Oedo:6231339941"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 696,
+          "name": "新橋",
+          "station_id": "osm:node:6231239089:Toei.Asakusa:6231153220"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 779,
+          "name": "浜松町駅",
+          "station_id": "wikidata:Q800873"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 830,
+          "name": "新橋",
+          "station_id": "osm:node:6231298512:TokyoMetro.Ginza:1926189619"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1031,
+          "name": "東銀座",
+          "station_id": "osm:node:2901061932:TokyoMetro.Hibiya:6293444387"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1088,
+          "name": "御成門",
+          "station_id": "osm:node:6190434985:Toei.Mita:1926709965"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1399,
+          "name": "銀座",
+          "station_id": "osm:node:3949376520:TokyoMetro.Marunouchi:6271999742"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Yurakucho",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1412,
+          "name": "新富町",
+          "station_id": "osm:node:4045343390:TokyoMetro.Yurakucho:6274908263"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1464,
+          "name": "日比谷",
+          "station_id": "osm:node:7600332014:TokyoMetro.Chiyoda:6193465460"
+        }
+      ],
+      "openingHours": "Mo-Su 09:00-17:00; Dec 29-Jan 01 off",
+      "railway_lines": [
+        "Toei.Oedo",
+        "Toei.Asakusa",
+        "JR-East.Yamanote",
+        "TokyoMetro.Ginza",
+        "TokyoMetro.Hibiya",
+        "Toei.Mita",
+        "TokyoMetro.Marunouchi",
+        "TokyoMetro.Yurakucho",
+        "TokyoMetro.Chiyoda"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:7836744",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/7836744"
+        }
+      ],
+      "subcategories": [
+        "garden"
+      ],
+      "types": [
+        "garden"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T22",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "NATURE"
+      ],
+      "category": "NATURE",
+      "coordinate": {
+        "latitude": 35.6522613,
+        "longitude": 139.7257841
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:85701277",
+      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "有栖川宮記念公園",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 311,
+          "name": "広尾",
+          "station_id": "osm:node:4906963597:TokyoMetro.Hibiya:8014829772"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 990,
+          "name": "麻布十番",
+          "station_id": "osm:node:2628346258:Toei.Oedo:6509432921"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Namboku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1006,
+          "name": "麻布十番",
+          "station_id": "osm:node:11129056351:TokyoMetro.Namboku:6509432929"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1197,
+          "name": "白金高輪",
+          "station_id": "osm:node:6221361546:Toei.Mita:4111329878"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1487,
+          "name": "乃木坂",
+          "station_id": "osm:node:1962624587:TokyoMetro.Chiyoda:6443199828"
+        }
+      ],
+      "openingHours": "24/7",
+      "railway_lines": [
+        "TokyoMetro.Hibiya",
+        "Toei.Oedo",
+        "TokyoMetro.Namboku",
+        "Toei.Mita",
+        "TokyoMetro.Chiyoda"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:85701277",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/85701277"
+        }
+      ],
+      "subcategories": [
+        "park"
+      ],
+      "types": [
+        "park"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.7019658,
+        "longitude": 139.7677523
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:89431876",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "神田明神",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 346,
+          "name": "末広町",
+          "station_id": "osm:node:2192153366:TokyoMetro.Ginza:8300121059"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Marunouchi",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 348,
+          "name": "御茶ノ水",
+          "station_id": "osm:node:2393625567:TokyoMetro.Marunouchi:7911713334"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 367,
+          "name": "御茶ノ水",
+          "station_id": "osm:relation:9189066:JR-East.ChuoRapid:2559434143"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 367,
+          "name": "御茶ノ水",
+          "station_id": "osm:relation:9189066:JR-East.ChuoSobuLocal:6070813705"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Chiyoda",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 385,
+          "name": "新御茶ノ水",
+          "station_id": "osm:node:2272645069:TokyoMetro.Chiyoda:6199739256"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.Yamanote",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 612,
+          "name": "JR東日本秋葉原駅",
+          "station_id": "wikidata:Q124504879"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 762,
+          "name": "小川町",
+          "station_id": "osm:node:1635233888:Toei.Shinjuku:1894258028"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 764,
+          "name": "上野御徒町",
+          "station_id": "osm:node:5006516012:Toei.Oedo:2189509309"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 772,
+          "name": "秋葉原",
+          "station_id": "osm:node:2010136343:TokyoMetro.Hibiya:7883332084"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Mita",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1105,
+          "name": "水道橋",
+          "station_id": "osm:node:3777697465:Toei.Mita:1926709968"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1261,
+          "name": "神保町",
+          "station_id": "osm:node:1529089914:TokyoMetro.Hanzomon:6186649794"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1412,
+          "name": "竹橋",
+          "station_id": "osm:node:3777697459:TokyoMetro.Tozai:1894258040"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "TokyoMetro.Ginza",
+        "TokyoMetro.Marunouchi",
+        "JR-East.ChuoRapid",
+        "JR-East.ChuoSobuLocal",
+        "TokyoMetro.Chiyoda",
+        "JR-East.Yamanote",
+        "Toei.Shinjuku",
+        "Toei.Oedo",
+        "TokyoMetro.Hibiya",
+        "Toei.Mita",
+        "TokyoMetro.Hanzomon",
+        "TokyoMetro.Tozai"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:89431876",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/89431876"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T33",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.7149242,
+        "longitude": 139.797547
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:92037459",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "浅草神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 362,
+          "name": "浅草",
+          "station_id": "osm:node:4330537924:TokyoMetro.Ginza:6237151014"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 604,
+          "name": "浅草",
+          "station_id": "osm:node:6237209465:Toei.Asakusa:7868599459"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1129,
+          "name": "蔵前",
+          "station_id": "osm:node:5754017601:Toei.Oedo:2540852499"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1318,
+          "name": "入谷",
+          "station_id": "osm:node:6367910416:TokyoMetro.Hibiya:8300320724"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1454,
+          "name": "押上〈スカイツリー前〉",
+          "station_id": "osm:node:7487289890:TokyoMetro.Hanzomon:6417196740"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "TokyoMetro.Ginza",
+        "Toei.Asakusa",
+        "Toei.Oedo",
+        "TokyoMetro.Hibiya",
+        "TokyoMetro.Hanzomon"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:92037459",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/92037459"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T34",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6910217,
+        "longitude": 139.8233399
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:961273462",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "愛宕神社",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 297,
+          "name": "西大島",
+          "station_id": "osm:node:2266522431:Toei.Shinjuku:8310611480"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 677,
+          "name": "住吉",
+          "station_id": "osm:node:4974826518:TokyoMetro.Hanzomon:8031754473"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoSobuLocal",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 768,
+          "name": "亀戸",
+          "station_id": "osm:relation:10312437:JR-East.ChuoSobuLocal:251847636"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "Toei.Shinjuku",
+        "TokyoMetro.Hanzomon",
+        "JR-East.ChuoSobuLocal"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:961273462",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/961273462"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    },
+    {
+      "admissionRequired": false,
+      "area": "T23",
+      "attributions": [
+        "© OpenStreetMap contributors"
+      ],
+      "brand": null,
+      "businessStatus": null,
+      "catalogStatus": "published",
+      "categories": [
+        "URBAN"
+      ],
+      "category": "URBAN",
+      "coordinate": {
+        "latitude": 35.6835267,
+        "longitude": 139.7851858
+      },
+      "created_at": "2026-11-07T23:34:46+00:00",
+      "discoveryScore": 65,
+      "discovery_reason": "既存の編集選定",
+      "id": "osm:way:98402891",
+      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "isDemo": false,
+      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "name": "水天宮",
+      "nearest_stations": [
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hanzomon",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 48,
+          "name": "水天宮前",
+          "station_id": "osm:node:6353068298:TokyoMetro.Hanzomon:6353024190"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Asakusa",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 250,
+          "name": "人形町 (都営地下鉄浅草線)",
+          "station_id": "osm:node:6178454127:Toei.Asakusa:6244341971"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Hibiya",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 250,
+          "name": "人形町",
+          "station_id": "osm:node:6178454127:TokyoMetro.Hibiya:7883332074"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Shinjuku",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 542,
+          "name": "浜町",
+          "station_id": "osm:node:6178416342:Toei.Shinjuku:1832344259"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Tozai",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 575,
+          "name": "茅場町",
+          "station_id": "osm:node:5621032732:TokyoMetro.Tozai:6184201319"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "TokyoMetro.Ginza",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 979,
+          "name": "三越前",
+          "station_id": "osm:node:6167012598:TokyoMetro.Ginza:1926189614"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "Toei.Oedo",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1110,
+          "name": "森下",
+          "station_id": "osm:node:3387102850:Toei.Oedo:2389061878"
+        },
+        {
+          "distance_kind": "straight_line",
+          "line_id": "JR-East.ChuoRapid",
+          "membership_source": "bundled_railway_dataset",
+          "meters": 1304,
+          "name": "東京",
+          "station_id": "osm:node:5826439470:JR-East.ChuoRapid:3589537656"
+        }
+      ],
+      "openingHours": null,
+      "railway_lines": [
+        "TokyoMetro.Hanzomon",
+        "Toei.Asakusa",
+        "TokyoMetro.Hibiya",
+        "Toei.Shinjuku",
+        "TokyoMetro.Tozai",
+        "TokyoMetro.Ginza",
+        "Toei.Oedo",
+        "JR-East.ChuoRapid"
+      ],
+      "source": "osm-curated",
+      "source_licenses": [
+        "ODbL-1.0"
+      ],
+      "sources": [
+        {
+          "attribution": "© OpenStreetMap contributors",
+          "license": "ODbL-1.0",
+          "provider": "osm",
+          "retrieved_at": "2026-11-06T15:54:59.634389+00:00",
+          "source_id": "osm:way:98402891",
+          "source_updated_at": "2026-11-06T15:38:06Z",
+          "source_url": "https://www.openstreetmap.org/way/98402891"
+        }
+      ],
+      "subcategories": [
+        "shinto_shrine"
+      ],
+      "types": [
+        "shinto_shrine"
+      ],
+      "updated_at": "2026-11-07T23:34:46+00:00"
+    }
+  ],
+  "revision": 1,
+  "schema_version": 1
+}
