@@ -23,13 +23,13 @@
         "latitude": 35.6471805,
         "longitude": 139.6561244
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:node:1891354183",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "松陰神社",
       "nearest_stations": [],
       "openingHours": null,
@@ -55,7 +55,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -74,13 +74,13 @@
         "latitude": 35.6841674,
         "longitude": 139.7804475
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:node:2258202675",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "小網神社",
       "nearest_stations": [
         {
@@ -198,7 +198,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -217,13 +217,13 @@
         "latitude": 35.6036879,
         "longitude": 139.6468891
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:node:2496164448",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "等々力不動尊",
       "nearest_stations": [],
       "openingHours": null,
@@ -249,7 +249,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -268,13 +268,13 @@
         "latitude": 35.6869591,
         "longitude": 139.6371745
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:node:440069983",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "白山神社",
       "nearest_stations": [
         {
@@ -311,7 +311,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -330,13 +330,13 @@
         "latitude": 35.6907852,
         "longitude": 139.8183119
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:10288254",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "猿江恩賜公園",
       "nearest_stations": [
         {
@@ -391,7 +391,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -410,13 +410,13 @@
         "latitude": 35.6891268,
         "longitude": 139.6893859
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:13272644",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "新宿中央公園",
       "nearest_stations": [
         {
@@ -507,7 +507,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -526,13 +526,13 @@
         "latitude": 35.715531,
         "longitude": 139.8041684
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:14235095",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "隅田公園",
       "nearest_stations": [
         {
@@ -587,7 +587,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -606,13 +606,13 @@
         "latitude": 35.6758253,
         "longitude": 139.8085579
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:14273608",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "木場公園",
       "nearest_stations": [
         {
@@ -676,7 +676,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -695,13 +695,13 @@
         "latitude": 35.7147889,
         "longitude": 139.5903382
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:17376006",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "善福寺公園",
       "nearest_stations": [
         {
@@ -747,7 +747,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -766,13 +766,13 @@
         "latitude": 35.6699745,
         "longitude": 139.6963083
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:19862716",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "代々木公園",
       "nearest_stations": [
         {
@@ -854,7 +854,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -873,13 +873,13 @@
         "latitude": 35.686472,
         "longitude": 139.7571878
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:5415394",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "皇居東御苑",
       "nearest_stations": [
         {
@@ -1006,7 +1006,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1025,13 +1025,13 @@
         "latitude": 35.7008599,
         "longitude": 139.6247018
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:100013319",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "大田黒公園",
       "nearest_stations": [
         {
@@ -1086,7 +1086,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1105,13 +1105,13 @@
         "latitude": 35.7027062,
         "longitude": 139.8209159
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:100599675",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "亀戸天神社",
       "nearest_stations": [
         {
@@ -1175,7 +1175,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1194,13 +1194,13 @@
         "latitude": 35.704607,
         "longitude": 139.7360988
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:143516722",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "赤城神社",
       "nearest_stations": [
         {
@@ -1291,7 +1291,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1310,13 +1310,13 @@
         "latitude": 35.6737111,
         "longitude": 139.7561768
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:145408909",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "日比谷公園",
       "nearest_stations": [
         {
@@ -1461,7 +1461,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1480,13 +1480,13 @@
         "latitude": 35.7220577,
         "longitude": 139.6740165
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:145524218",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "哲学堂公園",
       "nearest_stations": [
         {
@@ -1523,7 +1523,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1542,13 +1542,13 @@
         "latitude": 35.6983842,
         "longitude": 139.7938336
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:157050769",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "旧安田庭園",
       "nearest_stations": [
         {
@@ -1621,7 +1621,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": true,
@@ -1640,13 +1640,13 @@
         "latitude": 35.6851027,
         "longitude": 139.7098924
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:15772074",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "新宿御苑",
       "nearest_stations": [
         {
@@ -1737,7 +1737,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1756,13 +1756,13 @@
         "latitude": 35.610425,
         "longitude": 139.7217201
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:169889988",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "戸越公園",
       "nearest_stations": [
         {
@@ -1808,7 +1808,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1827,13 +1827,13 @@
         "latitude": 35.6254208,
         "longitude": 139.7031734
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:170295471",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "林試の森公園",
       "nearest_stations": [
         {
@@ -1888,7 +1888,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -1907,13 +1907,13 @@
         "latitude": 35.713454,
         "longitude": 139.7959524
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:173154847",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "浅草寺",
       "nearest_stations": [
         {
@@ -1977,7 +1977,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": true,
@@ -1996,13 +1996,13 @@
         "latitude": 35.7053585,
         "longitude": 139.7494608
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:20028327",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "小石川後楽園",
       "nearest_stations": [
         {
@@ -2111,7 +2111,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2130,13 +2130,13 @@
         "latitude": 35.7039073,
         "longitude": 139.7125781
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:209465552",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "戸山公園",
       "nearest_stations": [
         {
@@ -2227,7 +2227,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": true,
@@ -2246,13 +2246,13 @@
         "latitude": 35.6798593,
         "longitude": 139.7977156
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:22562412",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "清澄庭園",
       "nearest_stations": [
         {
@@ -2334,7 +2334,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": true,
@@ -2353,13 +2353,13 @@
         "latitude": 35.7332418,
         "longitude": 139.746401
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:249498496",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "六義園",
       "nearest_stations": [
         {
@@ -2414,7 +2414,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2433,13 +2433,13 @@
         "latitude": 35.6022886,
         "longitude": 139.6905478
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:27719790",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "洗足池公園",
       "nearest_stations": [],
       "openingHours": null,
@@ -2465,7 +2465,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2484,13 +2484,13 @@
         "latitude": 35.6184327,
         "longitude": 139.7399916
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:325692053",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "品川神社",
       "nearest_stations": [
         {
@@ -2527,7 +2527,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2546,13 +2546,13 @@
         "latitude": 35.6170488,
         "longitude": 139.7435786
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:325692055",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "荏原神社",
       "nearest_stations": [
         {
@@ -2589,7 +2589,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2608,13 +2608,13 @@
         "latitude": 35.7505735,
         "longitude": 139.7387497
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:38017808",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "飛鳥山公園",
       "nearest_stations": [
         {
@@ -2660,7 +2660,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2679,13 +2679,13 @@
         "latitude": 35.7242509,
         "longitude": 139.8155416
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:43837106",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "向島百花園",
       "nearest_stations": [
         {
@@ -2731,7 +2731,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2750,13 +2750,13 @@
         "latitude": 35.7200041,
         "longitude": 139.7607627
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:464629204",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "根津神社",
       "nearest_stations": [
         {
@@ -2838,7 +2838,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2857,13 +2857,13 @@
         "latitude": 35.6487317,
         "longitude": 139.6445543
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:46954688",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "世田谷八幡宮",
       "nearest_stations": [],
       "openingHours": null,
@@ -2889,7 +2889,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -2908,13 +2908,13 @@
         "latitude": 35.6750484,
         "longitude": 139.6994785
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:469908925",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "明治神宮",
       "nearest_stations": [
         {
@@ -3005,7 +3005,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3024,13 +3024,13 @@
         "latitude": 35.7076842,
         "longitude": 139.7678622
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:516751953",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "湯島天満宮",
       "nearest_stations": [
         {
@@ -3157,7 +3157,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3176,13 +3176,13 @@
         "latitude": 35.6665791,
         "longitude": 139.7721306
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:540410517",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "築地本願寺",
       "nearest_stations": [
         {
@@ -3300,7 +3300,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3319,13 +3319,13 @@
         "latitude": 35.648682,
         "longitude": 139.6473095
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:54150332",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "豪徳寺",
       "nearest_stations": [],
       "openingHours": "Mo-Su 06:00-17:00",
@@ -3351,7 +3351,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3370,13 +3370,13 @@
         "latitude": 35.6715882,
         "longitude": 139.799754
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:616241895",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "富岡八幡宮",
       "nearest_stations": [
         {
@@ -3431,7 +3431,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3450,13 +3450,13 @@
         "latitude": 35.6921178,
         "longitude": 139.7509767
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:624081603",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "北の丸公園",
       "nearest_stations": [
         {
@@ -3574,7 +3574,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3593,13 +3593,13 @@
         "latitude": 35.682388,
         "longitude": 139.6411499
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:680908887",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "大宮八幡宮",
       "nearest_stations": [
         {
@@ -3636,7 +3636,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3655,13 +3655,13 @@
         "latitude": 35.6571906,
         "longitude": 139.7482124
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:744348814",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "増上寺",
       "nearest_stations": [
         {
@@ -3752,7 +3752,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -3771,13 +3771,13 @@
         "latitude": 35.6555712,
         "longitude": 139.7502668
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:745301120",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "芝公園",
       "nearest_stations": [
         {
@@ -3868,7 +3868,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": true,
@@ -3887,13 +3887,13 @@
         "latitude": 35.6602032,
         "longitude": 139.7637002
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:7836744",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "浜離宮恩賜庭園",
       "nearest_stations": [
         {
@@ -4002,7 +4002,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -4021,13 +4021,13 @@
         "latitude": 35.6522613,
         "longitude": 139.7257841
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:85701277",
       "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "有栖川宮記念公園",
       "nearest_stations": [
         {
@@ -4100,7 +4100,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -4119,13 +4119,13 @@
         "latitude": 35.7019658,
         "longitude": 139.7677523
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:89431876",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "神田明神",
       "nearest_stations": [
         {
@@ -4261,7 +4261,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -4280,13 +4280,13 @@
         "latitude": 35.7149242,
         "longitude": 139.797547
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:92037459",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "浅草神社",
       "nearest_stations": [
         {
@@ -4359,7 +4359,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -4378,13 +4378,13 @@
         "latitude": 35.6910217,
         "longitude": 139.8233399
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:961273462",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "愛宕神社",
       "nearest_stations": [
         {
@@ -4439,7 +4439,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     },
     {
       "admissionRequired": false,
@@ -4458,13 +4458,13 @@
         "latitude": 35.6835267,
         "longitude": 139.7851858
       },
-      "created_at": "2026-11-07T23:34:46+00:00",
+      "created_at": "2026-11-07T23:40:27+00:00",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:98402891",
       "interestReason": "街の文化に触れる、編集選定の寺社。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:34:46+00:00",
+      "last_verified_at": "2026-11-07T23:40:27+00:00",
       "name": "水天宮",
       "nearest_stations": [
         {
@@ -4564,9 +4564,9 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:34:46+00:00"
+      "updated_at": "2026-11-07T23:40:27+00:00"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "schema_version": 1
 }
