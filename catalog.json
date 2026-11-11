@@ -10835,6 +10835,7 @@
       "admissionRequired": false,
       "area": "T13",
       "attributions": [
+        "Wikidata contributors",
         "© OpenStreetMap contributors"
       ],
       "brand": null,
@@ -10849,7 +10850,7 @@
         "longitude": 139.7633845
       },
       "created_at": "2026-11-08T02:31:20+00:00",
-      "discoveryScore": 0,
+      "discoveryScore": 74,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:396664384",
       "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
@@ -10861,6 +10862,7 @@
       "railway_lines": [],
       "source": "osm-curated",
       "source_licenses": [
+        "CC0-1.0",
         "ODbL-1.0"
       ],
       "sources": [
@@ -10872,6 +10874,15 @@
           "source_id": "osm:way:396664384",
           "source_updated_at": "2023-09-13 06:38:43+00:00",
           "source_url": "https://www.openstreetmap.org/way/396664384"
+        },
+        {
+          "attribution": "Wikidata contributors",
+          "license": "CC0-1.0",
+          "provider": "wikidata",
+          "retrieved_at": "2026-11-11T00:00:55+00:00",
+          "source_id": "wikidata:Q11279134",
+          "source_updated_at": "2021-07-01T13:52:33Z",
+          "source_url": "https://www.wikidata.org/wiki/Q11279134"
         }
       ],
       "subcategories": [
@@ -10880,7 +10891,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-11T00:00:56+00:00"
     },
     {
       "admissionRequired": false,
@@ -17522,6 +17533,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 172,
+  "revision": 173,
   "schema_version": 1
 }
