@@ -1,0 +1,168 @@
+{
+  "base_revision": 174,
+  "checked_on": "2026-11-12",
+  "places": [
+    {
+      "additional_urls": [
+        "https://www.city.shinagawa.tokyo.jp/kankyo/koenryokka/1009602/1004628.html"
+      ],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:147617674",
+      "name": "池田山公園",
+      "nearest_station_air_distance_m": 532,
+      "notes": "区の施設案内で年末年始休園を確認。区の公園利用案内で7:30–17:00（7・8月は18:00）を確認し、通年で短い時間を採用。",
+      "official_url": "https://www.city.shinagawa.tokyo.jp/shisetsu/chiikishisetsu/1008264/1008267.html",
+      "opening_hours": "Mo-Su 07:30-17:00; Dec 29-Jan 03 off",
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:570672664",
+      "name": "ねむの木の庭",
+      "nearest_station_air_distance_m": 361,
+      "notes": "区の施設案内で9:00–17:00、12月29日–1月3日休園を確認。",
+      "official_url": "https://www.city.shinagawa.tokyo.jp/shisetsu/chiikishisetsu/1008264/1008272.html",
+      "opening_hours": "Mo-Su 09:00-17:00; Dec 29-Jan 03 off",
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:199771681",
+      "name": "西郷山公園",
+      "nearest_station_air_distance_m": 722,
+      "notes": "区の施設案内で公園名・所在地・一般利用を確認。公園全体の開園時間は未確認。",
+      "official_url": "https://www.city.meguro.tokyo.jp/douro/shisetsu/sports/saigo.html",
+      "opening_hours": null,
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:55219711",
+      "name": "鍋島松濤公園",
+      "nearest_station_air_distance_m": 656,
+      "notes": "区の施設案内で池・所在地・一般利用を確認。公園全体の開園時間は未確認。",
+      "official_url": "https://www.city.shibuya.tokyo.jp/shisetsu/koen/kuritsu-koen/park_nabesima.html",
+      "opening_hours": null,
+      "operation": "added"
+    },
+    {
+      "additional_urls": [
+        "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/080113_tokyonihonteien2026JP"
+      ],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:103425091",
+      "name": "毛利庭園",
+      "nearest_station_air_distance_m": 158,
+      "notes": "施設管理者の案内で庭園の一般利用を確認。東京都の2026年日本庭園案内で7:00–23:00、休園日なし、入園無料を確認。",
+      "official_url": "https://www.roppongihills.com/green/",
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:645538985",
+      "name": "檜町公園",
+      "nearest_station_air_distance_m": 284,
+      "notes": "区の施設案内と2026年10月の区広報で公園の一般利用を確認。公園全体の開園時間は未確認。",
+      "official_url": "https://www.city.minato.tokyo.jp/shisetsu/koen/akasaka/06.html",
+      "opening_hours": null,
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:157191106",
+      "name": "高輪公園",
+      "nearest_station_air_distance_m": 485,
+      "notes": "区の公園紹介で名称・高輪3-18-18の所在地・一般利用を確認。公園全体の開園時間は未確認。高輪森の公園とは別施設。",
+      "official_url": "https://www.city.minato.tokyo.jp/kyouikucenter/kodomo/kids/machinami/koen/21.html",
+      "opening_hours": null,
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:160703991",
+      "name": "三田台公園",
+      "nearest_station_air_distance_m": 470,
+      "notes": "区の施設案内で遺跡公園の一般利用を確認。広場は5–8月9:00–18:00、9–4月9:00–17:00。公園全体の24時間利用は推定せず、短い広場開放時間内に限定。",
+      "official_url": "https://www.city.minato.tokyo.jp/shisetsu/koen/takanawa/03.html",
+      "opening_hours": "Mo-Su 09:00-17:00",
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:691546714",
+      "name": "教育の森公園",
+      "nearest_station_air_distance_m": 260,
+      "notes": "区の施設案内で一般利用・所在地を確認。隣接する占春園とは別のOSM区画。公園全体の開園時間は未確認。",
+      "official_url": "https://www.city.bunkyo.lg.jp/b036/p004894.html",
+      "opening_hours": null,
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:691698274",
+      "name": "占春園",
+      "nearest_station_air_distance_m": 352,
+      "notes": "区の施設案内で4–9月8:00–19:00、10–3月8:00–17:00を確認。通年で短い冬季時間を採用。休園日の明記なし。",
+      "official_url": "https://www.city.bunkyo.lg.jp/b036/p004910.html",
+      "opening_hours": "Mo-Su 08:00-17:00",
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:170294476",
+      "name": "大塚公園",
+      "nearest_station_air_distance_m": 200,
+      "notes": "区の施設案内で一般利用・所在地・彫刻を確認。公園全体の開園時間は未確認。",
+      "official_url": "https://www.city.bunkyo.lg.jp/b036/p004880.html",
+      "opening_hours": null,
+      "operation": "added"
+    },
+    {
+      "additional_urls": [],
+      "checked_on": "2026-11-12",
+      "coordinate_adjustment_m": 0.0,
+      "coordinates": "point verified inside OSM park polygon; not an entrance survey",
+      "id": "osm:way:659219165",
+      "name": "礫川公園",
+      "nearest_station_air_distance_m": 69,
+      "notes": "区の施設案内で一般利用・所在地・高低差を生かした庭を確認。公園全体の開園時間は未確認。",
+      "official_url": "https://www.city.bunkyo.lg.jp/b036/p004887.html",
+      "opening_hours": null,
+      "operation": "added"
+    }
+  ],
+  "revision": 187,
+  "scope": "Twelve public parks and gardens. No restaurant additions. Coordinate checks are map geometry checks, not field access surveys."
+}
