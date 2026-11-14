@@ -17052,6 +17052,7 @@
       "admissionRequired": false,
       "area": "T24",
       "attributions": [
+        "Wikidata contributors",
         "© OpenStreetMap contributors"
       ],
       "brand": null,
@@ -17066,7 +17067,7 @@
         "longitude": 139.8334757
       },
       "created_at": "2026-11-08T02:31:20+00:00",
-      "discoveryScore": 0,
+      "discoveryScore": 74,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:776885969",
       "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
@@ -17089,6 +17090,7 @@
       ],
       "source": "osm-curated",
       "source_licenses": [
+        "CC0-1.0",
         "ODbL-1.0"
       ],
       "sources": [
@@ -17100,6 +17102,15 @@
           "source_id": "osm:way:776885969",
           "source_updated_at": "2024-06-10 22:08:45+00:00",
           "source_url": "https://www.openstreetmap.org/way/776885969"
+        },
+        {
+          "attribution": "Wikidata contributors",
+          "license": "CC0-1.0",
+          "provider": "wikidata",
+          "retrieved_at": "2026-11-14T22:58:31+00:00",
+          "source_id": "wikidata:Q11431453",
+          "source_updated_at": "2024-06-11T07:16:13Z",
+          "source_url": "https://www.wikidata.org/wiki/Q11431453"
         }
       ],
       "subcategories": [
@@ -17108,7 +17119,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-14T22:58:31+00:00"
     },
     {
       "admissionRequired": false,
@@ -18738,6 +18749,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 189,
+  "revision": 190,
   "schema_version": 1
 }
