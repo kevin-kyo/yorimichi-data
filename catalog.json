@@ -7425,6 +7425,7 @@
       "admissionRequired": false,
       "area": "T41",
       "attributions": [
+        "Wikidata contributors",
         "© OpenStreetMap contributors"
       ],
       "brand": null,
@@ -7439,7 +7440,7 @@
         "longitude": 139.6314001
       },
       "created_at": "2026-11-08T02:31:20+00:00",
-      "discoveryScore": 0,
+      "discoveryScore": 73,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:158319653",
       "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
@@ -7471,6 +7472,7 @@
       ],
       "source": "osm-curated",
       "source_licenses": [
+        "CC0-1.0",
         "ODbL-1.0"
       ],
       "sources": [
@@ -7482,6 +7484,15 @@
           "source_id": "osm:way:158319653",
           "source_updated_at": "2026-03-18 22:23:06+00:00",
           "source_url": "https://www.openstreetmap.org/way/158319653"
+        },
+        {
+          "attribution": "Wikidata contributors",
+          "license": "CC0-1.0",
+          "provider": "wikidata",
+          "retrieved_at": "2026-11-17T02:28:19+00:00",
+          "source_id": "wikidata:Q97613695",
+          "source_updated_at": "2026-10-22T22:07:24Z",
+          "source_url": "https://www.wikidata.org/wiki/Q97613695"
         }
       ],
       "subcategories": [
@@ -7490,7 +7501,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-17T02:28:20+00:00"
     },
     {
       "admissionRequired": false,
@@ -18760,6 +18771,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 191,
+  "revision": 192,
   "schema_version": 1
 }
