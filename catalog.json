@@ -5760,6 +5760,7 @@
       "admissionRequired": false,
       "area": "T44",
       "attributions": [
+        "Wikidata contributors",
         "© OpenStreetMap contributors"
       ],
       "brand": null,
@@ -5774,7 +5775,7 @@
         "longitude": 139.84684965
       },
       "created_at": "2026-11-08T02:31:20+00:00",
-      "discoveryScore": 0,
+      "discoveryScore": 74,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:134796979",
       "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
@@ -5797,6 +5798,7 @@
       ],
       "source": "osm-curated",
       "source_licenses": [
+        "CC0-1.0",
         "ODbL-1.0"
       ],
       "sources": [
@@ -5808,6 +5810,15 @@
           "source_id": "osm:way:134796979",
           "source_updated_at": "2024-10-30 18:57:32+00:00",
           "source_url": "https://www.openstreetmap.org/way/134796979"
+        },
+        {
+          "attribution": "Wikidata contributors",
+          "license": "CC0-1.0",
+          "provider": "wikidata",
+          "retrieved_at": "2026-11-20T01:16:24+00:00",
+          "source_id": "wikidata:Q24868772",
+          "source_updated_at": "2026-07-11T05:38:21Z",
+          "source_url": "https://www.wikidata.org/wiki/Q24868772"
         }
       ],
       "subcategories": [
@@ -5816,7 +5827,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-20T01:16:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -17056,6 +17067,7 @@
       "admissionRequired": false,
       "area": "T44",
       "attributions": [
+        "Wikidata contributors",
         "© OpenStreetMap contributors"
       ],
       "brand": null,
@@ -17070,7 +17082,7 @@
         "longitude": 139.8542917
       },
       "created_at": "2026-11-08T02:31:20+00:00",
-      "discoveryScore": 0,
+      "discoveryScore": 73,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:764486215",
       "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
@@ -17082,6 +17094,7 @@
       "railway_lines": [],
       "source": "osm-curated",
       "source_licenses": [
+        "CC0-1.0",
         "ODbL-1.0"
       ],
       "sources": [
@@ -17093,6 +17106,15 @@
           "source_id": "osm:way:764486215",
           "source_updated_at": "2026-08-25 02:03:03+00:00",
           "source_url": "https://www.openstreetmap.org/way/764486215"
+        },
+        {
+          "attribution": "Wikidata contributors",
+          "license": "CC0-1.0",
+          "provider": "wikidata",
+          "retrieved_at": "2026-11-20T01:16:24+00:00",
+          "source_id": "wikidata:Q106852610",
+          "source_updated_at": "2026-11-09T22:28:30Z",
+          "source_url": "https://www.wikidata.org/wiki/Q106852610"
         }
       ],
       "subcategories": [
@@ -17101,7 +17123,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-20T01:16:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -18804,6 +18826,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 194,
+  "revision": 195,
   "schema_version": 1
 }
