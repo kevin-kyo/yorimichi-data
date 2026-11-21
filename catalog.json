@@ -5197,7 +5197,7 @@
           "attribution": "Wikidata contributors",
           "license": "CC0-1.0",
           "provider": "wikidata",
-          "retrieved_at": "2026-11-08T22:52:27+00:00",
+          "retrieved_at": "2026-11-21T23:48:53+00:00",
           "source_id": "wikidata:Q11392844",
           "source_updated_at": "2024-01-02T00:02:06Z",
           "source_url": "https://www.wikidata.org/wiki/Q11392844"
@@ -5209,7 +5209,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T22:52:27+00:00"
+      "updated_at": "2026-11-21T23:48:53+00:00"
     },
     {
       "admissionRequired": false,
@@ -10563,7 +10563,7 @@
           "attribution": "Wikidata contributors",
           "license": "CC0-1.0",
           "provider": "wikidata",
-          "retrieved_at": "2026-11-08T22:52:27+00:00",
+          "retrieved_at": "2026-11-21T23:48:53+00:00",
           "source_id": "wikidata:Q21480958",
           "source_updated_at": "2026-10-23T02:41:45Z",
           "source_url": "https://www.wikidata.org/wiki/Q21480958"
@@ -10575,7 +10575,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T22:52:27+00:00"
+      "updated_at": "2026-11-21T23:48:53+00:00"
     },
     {
       "admissionRequired": false,
@@ -18826,6 +18826,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 196,
+  "revision": 197,
   "schema_version": 1
 }
