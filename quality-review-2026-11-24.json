@@ -1,0 +1,889 @@
+{
+  "checked_on": "2026-11-24",
+  "title": "水辺と街角",
+  "base_revision": 199,
+  "places": [
+    {
+      "id": "osm:way:54150332",
+      "name": "豪徳寺",
+      "clue": "猫",
+      "reveal_text": "三重塔を見上げて、彫り込まれた猫が何匹いるか探してみよう。",
+      "references": [
+        "https://www.gotokuji.jp/manekineko/",
+        "https://gotokuji.jp/"
+      ],
+      "opening_hours": "Mo-Su 06:00-17:00"
+    },
+    {
+      "id": "osm:way:100599675",
+      "name": "亀戸天神社",
+      "clue": "橋",
+      "reveal_text": "心字池の上を大きく弧を描いて渡る太鼓橋に注目。",
+      "references": [
+        "https://kameidotenjin-sha.jp/worship/"
+      ]
+    },
+    {
+      "id": "osm:way:147617674",
+      "name": "池田山公園",
+      "clue": "池",
+      "reveal_text": "高台から斜面を下ると池が現れる。上と下で庭の表情を見比べよう。",
+      "references": [
+        "https://www.city.shinagawa.tokyo.jp/shisetsu/chiikishisetsu/1008264/1008267.html"
+      ]
+    },
+    {
+      "id": "osm:way:570672664",
+      "name": "ねむの木の庭",
+      "clue": "歌",
+      "reveal_text": "旧正田邸の跡にできた庭。園名には「ねむの木の子守歌」が残る。",
+      "references": [
+        "https://www.city.shinagawa.tokyo.jp/shisetsu/chiikishisetsu/1008264/1008272.html"
+      ]
+    },
+    {
+      "id": "osm:way:199771681",
+      "name": "西郷山公園",
+      "clue": "坂",
+      "reveal_text": "斜面に沿って上がると、庭から街を見下ろせる高台に出る。",
+      "references": [
+        "https://www.city.meguro.tokyo.jp/douro/shisetsu/sports/saigo.html"
+      ]
+    },
+    {
+      "id": "osm:way:55219711",
+      "name": "鍋島松濤公園",
+      "clue": "輪",
+      "reveal_text": "池のほとりにある水車を探してみよう。",
+      "references": [
+        "https://www.city.shibuya.tokyo.jp/shisetsu/koen/kuritsu-koen/park_nabesima.html"
+      ]
+    },
+    {
+      "id": "osm:way:103425091",
+      "name": "毛利庭園",
+      "clue": "庭",
+      "reveal_text": "池を囲む道をひと回り。都会のビルの間に日本庭園が広がる。",
+      "references": [
+        "https://www.roppongihills.com/green/"
+      ]
+    },
+    {
+      "id": "osm:way:645538985",
+      "name": "檜町公園",
+      "clue": "池",
+      "reveal_text": "広場から池のそばへ。赤坂のビルと日本庭園を一度に眺められる。",
+      "references": [
+        "https://www.city.minato.tokyo.jp/shisetsu/koen/akasaka/06.html"
+      ]
+    },
+    {
+      "id": "osm:way:160703991",
+      "name": "三田台公園",
+      "clue": "貝",
+      "reveal_text": "貝塚の断面展示で、昔の暮らしが積み重なった層を見てみよう。",
+      "references": [
+        "https://www.city.minato.tokyo.jp/shisetsu/koen/takanawa/03.html"
+      ]
+    },
+    {
+      "id": "osm:way:691698274",
+      "name": "占春園",
+      "clue": "森",
+      "reveal_text": "木々が茂る斜面をたどると、小さな池を囲む庭が見えてくる。",
+      "references": [
+        "https://www.city.bunkyo.lg.jp/b036/p004910.html"
+      ]
+    },
+    {
+      "id": "osm:way:170294476",
+      "name": "大塚公園",
+      "clue": "彫",
+      "reveal_text": "木々と広場の間を歩いて、園内に点在する彫刻を探そう。",
+      "references": [
+        "https://www.city.bunkyo.lg.jp/b036/p004880.html"
+      ]
+    },
+    {
+      "id": "osm:way:659219165",
+      "name": "礫川公園",
+      "clue": "段",
+      "reveal_text": "段差のある園路をたどって、後楽園の街から庭へ景色が変わるところを見てみよう。",
+      "references": [
+        "https://www.city.bunkyo.lg.jp/b036/p004887.html"
+      ]
+    },
+    {
+      "id": "osm:relation:17981647",
+      "name": "城北中央公園",
+      "clue": "茅",
+      "reveal_text": "栗原遺跡に立つ復元住居の、茅で葺いた屋根を見てみよう。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/johoku-chuo/"
+      ]
+    },
+    {
+      "id": "osm:relation:17376005",
+      "name": "善福寺川緑地",
+      "clue": "流",
+      "reveal_text": "住宅街を縫う善福寺川。園路から川の曲がりをたどってみよう。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/zempukujigawa-ryokuchi/"
+      ]
+    },
+    {
+      "id": "osm:way:27994730",
+      "name": "都立明治公園",
+      "clue": "芝",
+      "reveal_text": "希望の広場の芝生まで歩くと、樹木に囲まれた場所から空がひらける。",
+      "references": [
+        "https://www.meiji-park.com/overview/"
+      ]
+    },
+    {
+      "id": "osm:way:157050777",
+      "name": "都立横網町公園",
+      "clue": "塔",
+      "reveal_text": "慰霊堂の背後に立つ三重塔に目を向けると、震災と戦災を伝える公園の輪郭が見えてくる。",
+      "references": [
+        "https://www.tokyoireikyoukai.or.jp/ireidou/history.html"
+      ]
+    },
+    {
+      "id": "osm:node:597685675",
+      "name": "忠犬ハチ公像",
+      "clue": "犬",
+      "reveal_text": "駅前に座るハチ公。銅像が向いている方をそっと見てみよう。",
+      "references": [
+        "https://www.gotokyo.org/jp/spot/86/index.html"
+      ]
+    },
+    {
+      "id": "osm:node:1367460936",
+      "name": "日本橋魚河岸発祥の地",
+      "clue": "魚",
+      "reveal_text": "日本橋の北詰に、川沿いが魚市場だった時代を伝える碑がある。",
+      "references": [
+        "https://www.chuo-kanko.or.jp/pages/other_details/119497"
+      ]
+    },
+    {
+      "id": "osm:way:94093773",
+      "name": "甘泉園公園",
+      "clue": "泉",
+      "reveal_text": "湧き水にちなんだ名を持つ庭園。池をぐるりと囲む園路を歩いてみよう。",
+      "references": [
+        "https://www.city.shinjuku.lg.jp/seikatsu/file15_03_00011.html",
+        "https://www.city.shinjuku.lg.jp/seikatsu/file15_03_00020.html"
+      ],
+      "opening_hours": "Mo-Su 07:00-17:00"
+    },
+    {
+      "id": "osm:way:170295471",
+      "name": "林試の森公園",
+      "clue": "樹",
+      "reveal_text": "林業試験場だった森の園路で、空を覆う大きな木々を見上げてみよう。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/rinshinomori/"
+      ]
+    },
+    {
+      "id": "osm:way:744723106",
+      "name": "小名木川クローバー橋",
+      "clue": "葉",
+      "reveal_text": "四方に道が伸びる橋の真ん中で、足元の四つ葉を探そう。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6850156,
+          "longitude": 139.8206972
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2019-11-12T19:01:28+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1057052869",
+      "name": "亀久橋",
+      "clue": "透",
+      "reveal_text": "橋の入口に立つ親柱。透かしの中の色ガラスに目を向けてみよう。",
+      "references": [
+        "https://www.city.koto.lg.jp/390112/machizukuri/keikan/toshikeikan_torikumi_kouzoubutsu.html"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6758495,
+          "longitude": 139.8028241
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2024-09-29T05:39:03+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1060000229",
+      "name": "東富橋",
+      "clue": "矢",
+      "reveal_text": "親柱の明かりをよく見ると、矢をかたどった飾りがある。",
+      "references": [
+        "https://www.city.koto.lg.jp/390112/machizukuri/keikan/toshikeikan_torikumi_kouzoubutsu.html"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6692718,
+          "longitude": 139.8008001
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2026-02-05T05:39:32+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1028343269",
+      "name": "新扇橋",
+      "clue": "門",
+      "reveal_text": "小名木川の上から、舟の水位を調整する扇橋閘門の方を眺めてみよう。",
+      "references": [
+        "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/chisui/jigyou/suimon/image/ougibashi"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6844733,
+          "longitude": 139.8111836
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2022-02-05T11:46:27+00:00",
+        "coordinate_method": "mapped road approach; MapKit pedestrian route endpoint 6 m from the point"
+      }
+    },
+    {
+      "id": "osm:way:659292255",
+      "name": "辰巳桜橋",
+      "clue": "斜",
+      "reveal_text": "運河をまたぐ橋の上で、塔から斜めに伸びるケーブルを見上げよう。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6464964,
+          "longitude": 139.8072996
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2025-01-28T00:47:05+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1028332761",
+      "name": "漣橋",
+      "clue": "弧",
+      "reveal_text": "辰巳の森へ続く橋。岸へ向かってゆるく曲がる橋の形に注目。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6546371,
+          "longitude": 139.8159366
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2025-02-26T08:47:39+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:616221095",
+      "name": "八幡橋",
+      "clue": "菊",
+      "reveal_text": "明治の小さな鉄橋。橋の骨組みに付いた菊の紋章を探そう。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6718802,
+          "longitude": 139.8006214
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2018-12-17T14:07:02+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1410745635",
+      "name": "萬年橋",
+      "clue": "灯",
+      "reveal_text": "橋の端に立つ親柱と川を通る舟のための灯り。小名木川の入口を飾る意匠を見てみよう。",
+      "references": [
+        "https://www.city.koto.lg.jp/390112/machizukuri/keikan/toshikeikan_torikumi_kouzoubutsu.html"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6834966,
+          "longitude": 139.7947419
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2026-05-26T00:38:43+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:856821159",
+      "name": "清洲橋",
+      "clue": "吊",
+      "reveal_text": "吊り橋の大きな曲線を、川面から空へ目でたどってみよう。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6823267,
+          "longitude": 139.7918267
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2023-09-13T06:38:44+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1060000228",
+      "name": "永代橋",
+      "clue": "弧",
+      "reveal_text": "どっしりした鋼のアーチに沿って、橋の上で空を見上げてみよう。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6763958,
+          "longitude": 139.7875924
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2025-06-29T20:13:01+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:relation:16929043",
+      "name": "新大橋",
+      "clue": "線",
+      "reveal_text": "塔とケーブルの直線が交わってできる形を、歩道から見上げてみよう。",
+      "references": [
+        "https://koto-kanko.jp/tourism/detail_course.php?mcid=7"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6882575,
+          "longitude": 139.7940926
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2024-10-12T13:40:33+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:585439312",
+      "name": "蔵前橋",
+      "clue": "黄",
+      "reveal_text": "蔵前の橋には黄色いアーチ。橋の端から川にかかる曲線を目で追ってみよう。",
+      "references": [
+        "https://t-navi.city.taito.lg.jp/features/54"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7008564,
+          "longitude": 139.793445
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2024-10-26T01:09:18+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1061422935",
+      "name": "桜橋",
+      "clue": "交",
+      "reveal_text": "左右に分かれる歩行者の道が、隅田川の上で交わっている。",
+      "references": [
+        "https://t-navi.city.taito.lg.jp/features/54"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7174199,
+          "longitude": 139.8066283
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2024-03-25T15:45:45+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:970351279",
+      "name": "白鬚橋",
+      "clue": "弧",
+      "reveal_text": "川の真ん中で高くなるアーチ。左右へなだらかに下がる形を眺めよう。",
+      "references": [
+        "https://www.gotokyo.org/jp/spot/934/index.html"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7280683,
+          "longitude": 139.8098618
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2023-10-02T02:10:28+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:948364205",
+      "name": "千住大橋",
+      "clue": "鋼",
+      "reveal_text": "千住と南千住をつなぐ橋。川に残る鋼のアーチに、長い往来の歴史を感じてみよう。",
+      "references": [
+        "https://www.city.adachi.tokyo.jp/hakubutsukan/chiikibunka/hakubutsukan/manabu-senjuohashi.html"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7394987,
+          "longitude": 139.7975489
+        },
+        "types": [
+          "footbridge",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2025-08-18T12:56:18+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:956546673",
+      "name": "千住汐入大橋",
+      "clue": "浦",
+      "reveal_text": "橋の歩道から、ゆるく折れ曲がる隅田川と汐入の水辺を見渡そう。",
+      "references": [
+        "https://www.city.arakawa.tokyo.jp/documents/3170/03dai2shou.pdf"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7409813,
+          "longitude": 139.8122978
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2022-05-15T04:33:36+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1010959711",
+      "name": "水神大橋",
+      "clue": "岸",
+      "reveal_text": "汐入と東白鬚。隅田川の両岸に広がる公園を橋の上から見比べよう。",
+      "references": [
+        "https://www.city.arakawa.tokyo.jp/documents/3170/03dai2shou.pdf"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7361604,
+          "longitude": 139.8134669
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2025-01-28T00:46:56+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:171300279",
+      "name": "夢の大橋",
+      "clue": "纏",
+      "reveal_text": "橋の照明を見上げると、江戸の火消しが掲げた纏を思わせる形がある。",
+      "references": [
+        "https://www.tptc.co.jp/park/01_04/point"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6286895,
+          "longitude": 139.7843494
+        },
+        "types": [
+          "footbridge"
+        ],
+        "osm_snapshot_updated_at": "2026-08-25T17:02:39+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:598072341",
+      "name": "音無さくら緑地",
+      "clue": "吊",
+      "reveal_text": "石神井川の旧流路の上に、小さな緑の吊り橋がかかっている。",
+      "references": [
+        "https://kanko.city.kita.lg.jp/spot/418-2/"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7518498,
+          "longitude": 139.7312226
+        },
+        "types": [
+          "park"
+        ],
+        "osm_snapshot_updated_at": "2023-01-21T21:54:23+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:relation:4671380",
+      "name": "おとめ山公園",
+      "clue": "湧",
+      "reveal_text": "谷あいを歩き、木立の中で湧水が池へ向かう流れを探そう。",
+      "references": [
+        "https://www.city.shinjuku.lg.jp/seikatsu/midori02_001013.html"
+      ],
+      "opening_hours": "Mo-Su 07:00-17:00",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.7180777,
+          "longitude": 139.7017611
+        },
+        "types": [
+          "park"
+        ],
+        "osm_snapshot_updated_at": "2026-02-27T20:37:30+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:node:11834476539",
+      "name": "田園調布せせらぎ公園",
+      "clue": "泉",
+      "reveal_text": "駅前から森に入ると、湧水をたたえた池が木々の間に現れる。",
+      "references": [
+        "https://www.city.ota.tokyo.jp/shisetsu/park/denentyouhuseseragi.html"
+      ],
+      "opening_hours": "Mo-Su 07:00-16:30",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.5903842,
+          "longitude": 139.6689639
+        },
+        "types": [
+          "park"
+        ],
+        "osm_snapshot_updated_at": "2024-04-21T07:57:08+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:1159770357",
+      "name": "清水窪弁財天",
+      "clue": "祠",
+      "reveal_text": "谷のくぼみに残る弁天池。小さな祠のそばで池の眺めを楽しもう。",
+      "references": [
+        "https://www.city.ota.tokyo.jp/kuho/kuho_web/20170501/tokusyu.html"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6114305,
+          "longitude": 139.6868683
+        },
+        "types": [
+          "shinto_shrine"
+        ],
+        "osm_snapshot_updated_at": "2025-06-21T08:46:17+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:41950501",
+      "name": "北沢川緑道",
+      "clue": "流",
+      "reveal_text": "川の跡をたどる遊歩道。街の中に続くせせらぎ沿いを少し歩いてみよう。",
+      "references": [
+        "https://www.city.setagaya.lg.jp/documents/4304/mokuroku1-06.pdf"
+      ],
+      "opening_hours": "24/7",
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6544013,
+          "longitude": 139.661783
+        },
+        "types": [
+          "riverside"
+        ],
+        "osm_snapshot_updated_at": "2025-01-16T14:04:23+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:96225927",
+      "name": "駒場野公園",
+      "clue": "田",
+      "reveal_text": "明治の農学の面影を残すケルネル田んぼ。柵の外から田の区画を見てみよう。",
+      "references": [
+        "https://www.city.meguro.tokyo.jp/douro/shisetsu/sports/komabano.html"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6584921,
+          "longitude": 139.6812519
+        },
+        "types": [
+          "park"
+        ],
+        "osm_snapshot_updated_at": "2023-09-13T06:38:38+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:179849262",
+      "name": "東山貝塚公園",
+      "clue": "跡",
+      "reveal_text": "公園の入口近くに、縄文時代の竪穴住居をかたどった展示がある。",
+      "references": [
+        "https://www.city.meguro.tokyo.jp/shougaigakushuu/bunkasports/rekishibunkazai/hokubuhigashiyama.html"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6495787,
+          "longitude": 139.6854597
+        },
+        "types": [
+          "park",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2022-09-17T10:24:52+00:00",
+        "coordinate_method": "public street frontage"
+      }
+    },
+    {
+      "id": "osm:way:261476580",
+      "name": "小松川境川親水公園",
+      "clue": "水",
+      "reveal_text": "街の中を行く細い水路。水の流れに沿って遊歩道を歩いてみよう。",
+      "references": [
+        "https://www.city.edogawa.tokyo.jp/e066/kuseijoho/gaiyo/shisetsuguide/bunya/koendobutsuen/komatsugawa2.html"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6962215,
+          "longitude": 139.8633335
+        },
+        "types": [
+          "park",
+          "riverside"
+        ],
+        "osm_snapshot_updated_at": "2023-06-01T23:30:51+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:257863848",
+      "name": "古川親水公園",
+      "clue": "川",
+      "reveal_text": "昔の川筋を残す細長い公園。住宅の間をたどって続く水辺を眺めよう。",
+      "references": [
+        "https://www.city.edogawa.tokyo.jp/e066/kuseijoho/gaiyo/shisetsuguide/bunya/koendobutsuen/furukawa.html"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6751333,
+          "longitude": 139.8730792
+        },
+        "types": [
+          "park",
+          "riverside"
+        ],
+        "osm_snapshot_updated_at": "2023-05-17T12:03:48+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:279068004",
+      "name": "聖蹟公園",
+      "clue": "宿",
+      "reveal_text": "東海道の品川宿で本陣があった場所。街道から公園に入って案内板を探そう。",
+      "references": [
+        "https://shinagawa-kanko.or.jp/spot/seisekikouen/"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6188867,
+          "longitude": 139.7444472
+        },
+        "types": [
+          "park",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2014-05-03T09:39:09+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:way:279300894",
+      "name": "品海公園",
+      "clue": "里",
+      "reveal_text": "日本橋から二里。旧東海道から少し入った公園で、旅の距離を刻む碑を探そう。",
+      "references": [
+        "https://shinagawa-kanko.or.jp/recommended_route/kyuutoukaidou/"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6204081,
+          "longitude": 139.7425904
+        },
+        "types": [
+          "park",
+          "historical_landmark"
+        ],
+        "osm_snapshot_updated_at": "2014-05-04T07:56:36+00:00",
+        "coordinate_method": "mapped pedestrian path"
+      }
+    },
+    {
+      "id": "osm:node:4741036254",
+      "name": "愛宕神社 出世の石段",
+      "clue": "段",
+      "reveal_text": "大鳥居の奥を見上げると、山の上へ真っ直ぐ伸びる「出世の石段」が見える。",
+      "references": [
+        "https://www.atago-jinja.com/virtual/"
+      ],
+      "opening_hours": null,
+      "addition": {
+        "coordinate": {
+          "latitude": 35.6646094,
+          "longitude": 139.749183
+        },
+        "types": [
+          "historical_landmark",
+          "shinto_shrine"
+        ],
+        "osm_snapshot_updated_at": "2017-04-02T07:09:44Z",
+        "coordinate_method": "mapped public information board at the foot of the stairs"
+      }
+    }
+  ],
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "coverage_audit": {
+    "routing": "Offline simulation on the OpenStreetMap pedestrian network, with a MapKit spot check for four new destinations.",
+    "origins": [
+      "浅草",
+      "蔵前",
+      "清澄白河",
+      "住吉",
+      "木場",
+      "辰巳",
+      "南千住",
+      "王子",
+      "中目黒",
+      "代々木上原",
+      "高田馬場",
+      "西葛西",
+      "船堀",
+      "新小岩"
+    ],
+    "target_meters": [
+      1000,
+      2000,
+      3000
+    ],
+    "departure_times_jst": [
+      "11:00",
+      "17:00"
+    ],
+    "themes": [
+      "nature",
+      "urban"
+    ],
+    "station_options": "No restriction or the sampled railway line within 800 walking metres.",
+    "all": {
+      "scenarios": 336,
+      "with_candidate_before": 109,
+      "with_candidate_after": 149,
+      "with_three_before": 32,
+      "with_three_after": 48
+    },
+    "at_17_jst": {
+      "scenarios": 168,
+      "with_candidate_before": 35,
+      "with_candidate_after": 57,
+      "with_three_before": 5,
+      "with_three_after": 17
+    },
+    "with_station_line": {
+      "scenarios": 168,
+      "with_candidate_before": 29,
+      "with_candidate_after": 47,
+      "with_three_before": 5,
+      "with_three_after": 9
+    }
+  }
+}
