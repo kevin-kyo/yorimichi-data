@@ -1,0 +1,204 @@
+{
+  "checked_on": "2026-11-24",
+  "title": "街角の見どころ",
+  "base_revision": 200,
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "places": [
+    {
+      "id": "osm:relation:14273608",
+      "name": "木場公園",
+      "clue": "塔",
+      "reveal_text": "木場公園大橋の高い主塔を見上げよう。斜めに伸びるケーブルが、離れた広場からもよく見える。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/kiba/"
+      ]
+    },
+    {
+      "id": "osm:relation:17376006",
+      "name": "善福寺公園",
+      "clue": "島",
+      "reveal_text": "上の池には二つの中島。岸を歩きながら、弁財天をまつる大きい方の島を探そう。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/zenpukuji/index.html"
+      ]
+    },
+    {
+      "id": "osm:way:157050769",
+      "name": "旧安田庭園",
+      "clue": "心",
+      "reveal_text": "池の名前は心字池。園内の地図と岸の曲がり方を見比べて、「心」の字を探してみよう。",
+      "references": [
+        "https://www.city.sumida.lg.jp/sisetu_info/kouen/kunai_park_annai/sumida_park/park08.html"
+      ],
+      "opening_hours": "Mo-Su 09:00-16:30; Dec 29-Jan 01 off"
+    },
+    {
+      "id": "osm:way:145524218",
+      "name": "哲学堂公園",
+      "clue": "角",
+      "reveal_text": "六賢台を外から見上げると、朱色の建物に六つの角がある。屋根の輪郭を目でたどってみよう。",
+      "references": [
+        "https://www.tetsugakudo.jp/construction.html",
+        "https://www.tetsugakudo.jp/access.html"
+      ],
+      "opening_hours": "Mo-Su 09:00-17:00; Dec 29-Dec 31 off"
+    },
+    {
+      "id": "osm:way:38017808",
+      "name": "飛鳥山公園",
+      "clue": "車",
+      "reveal_text": "遊具広場に、かつて飛鳥山の横を走っていた都電6080が停まっている。車体の番号を探そう。",
+      "references": [
+        "https://www.city.kita.lg.jp/parks/list/1009535.html",
+        "https://www.city.kita.lg.jp/parks/asukayamapark/index.html"
+      ],
+      "opening_hours": "24/7"
+    },
+    {
+      "id": "osm:way:270138600",
+      "name": "多摩川台公園",
+      "clue": "墳",
+      "reveal_text": "丘の園路には古墳がいくつも並ぶ。案内板を手がかりに、木々に覆われた盛り土の輪郭をたどろう。",
+      "references": [
+        "https://www.city.ota.tokyo.jp/shisetsu/park/tamagawadai.html"
+      ]
+    },
+    {
+      "id": "osm:way:149320360",
+      "name": "水元公園",
+      "clue": "幹",
+      "reveal_text": "メタセコイアの森で、空へすっと伸びる幹を見上げよう。足元から梢まで、まっすぐな線が続く。",
+      "references": [
+        "https://www.tokyo-park.or.jp/special/top/biodiversity/park/mizumoto.html"
+      ]
+    },
+    {
+      "id": "osm:way:27719790",
+      "name": "洗足池公園",
+      "clue": "馬",
+      "reveal_text": "池のほとり、千束八幡神社の近くに名馬・池月の像が立つ。水辺の景色の中に馬の姿を探してみよう。",
+      "references": [
+        "https://www.city.ota.tokyo.jp/shisetsu/park/senzokuike.html",
+        "https://www.o-2.jp/feature/umamachiaruki/"
+      ]
+    },
+    {
+      "id": "osm:way:1058118415",
+      "name": "練馬城址公園",
+      "clue": "丘",
+      "reveal_text": "かつての遊園地の一角にできた「花の丘」。川沿いの園路から丘の方へ歩くと、地形の変化がわかる。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/nerimajoshi/index.html",
+        "https://www.tokyo-park.or.jp/park/nerimajoshi/assets/nerimajoshi_bf_1.pdf?date=20260405180312"
+      ]
+    },
+    {
+      "id": "osm:way:540410517",
+      "name": "築地本願寺",
+      "clue": "翼",
+      "reveal_text": "本堂の正面で、翼を持つ石の獅子を見つけよう。ほかの動物像も、境内のあちこちに隠れている。",
+      "references": [
+        "https://note.com/t_hongwanji/n/na12f83e97229"
+      ]
+    },
+    {
+      "id": "osm:way:173154847",
+      "name": "浅草寺",
+      "clue": "藁",
+      "reveal_text": "仲見世から宝蔵門をくぐったら振り返ってみよう。本堂側に、人の背丈を超える大わらじが掛かっている。",
+      "references": [
+        "https://www.senso-ji.jp/guide/guide03.html"
+      ]
+    },
+    {
+      "id": "osm:way:325692053",
+      "name": "品川神社",
+      "clue": "龍",
+      "reveal_text": "石段の手前に立つ鳥居の柱には二頭の龍。一方は昇り、もう一方は下りる姿に彫られている。",
+      "references": [
+        "https://shinagawa-kanko.or.jp/spot/shinagawajinja/"
+      ]
+    },
+    {
+      "id": "osm:way:143516722",
+      "name": "赤城神社",
+      "clue": "透",
+      "reveal_text": "ゆるい坂を上がると、木の柱とガラスの社殿が現れる。外から、屋根と空がどう重なるか眺めてみよう。",
+      "references": [
+        "https://kkaa.co.jp/project/akagi-jinja/",
+        "https://www.jreco.or.jp/data/JRECOnews_042.pdf"
+      ]
+    },
+    {
+      "id": "osm:way:509411458",
+      "name": "日枝神社",
+      "clue": "猿",
+      "reveal_text": "社殿の両脇を見比べると、神さまの使いとされる二体の神猿像がいる。",
+      "references": [
+        "https://www.hiejinja.net/gokigan-guide/kosazuke/"
+      ]
+    },
+    {
+      "id": "osm:way:716178336",
+      "name": "牛嶋神社",
+      "clue": "牛",
+      "reveal_text": "境内に横たわる石の「撫牛」を探そう。伏せた体と、顔を上げた姿が目印。",
+      "references": [
+        "https://www.city.sumida.lg.jp/kosodate_kyouiku/tiiki_kyouiku_shien/bunkazai_hogo/bunkazai_itiran/sumida_touroku.html"
+      ]
+    },
+    {
+      "id": "osm:way:464629204",
+      "name": "根津神社",
+      "clue": "朱",
+      "reveal_text": "乙女稲荷へ続く朱色の鳥居。入口から、鳥居の輪郭が奥へ重なっていく景色を眺めてみよう。",
+      "references": [
+        "https://www.gotokyo.org/jp/spot/70/index.html",
+        "https://nedujinja.or.jp/keidaisatsuei/"
+      ]
+    },
+    {
+      "id": "osm:node:11991698170",
+      "name": "Suicaのペンギン",
+      "clue": "銅",
+      "reveal_text": "新宿駅の新南改札の外に、Suicaのペンギンが銅像になって立っている。足元には広場、すぐそばには線路がある。",
+      "references": [
+        "https://www.kanko-shinjuku.jp/spot/c005/article_4038.html"
+      ]
+    },
+    {
+      "id": "osm:way:136608990",
+      "name": "名曲喫茶ライオン",
+      "clue": "響",
+      "reveal_text": "道玄坂の音楽喫茶。席に着いたら、大きなスピーカーから流れるクラシックに耳を傾けてみよう。",
+      "references": [
+        "https://lion.main.jp/atfirst/atfirst.htm",
+        "https://geidai.repo.nii.ac.jp/record/1459/files/hakukoku3_full.pdf"
+      ]
+    },
+    {
+      "id": "osm:node:10734406024",
+      "name": "ふなわかふぇ 浅草店",
+      "clue": "芋",
+      "reveal_text": "雷門のそば、芋ようかんの舟和が開いたカフェ。ひと休みするなら、さつまいもの甘みを楽しもう。",
+      "references": [
+        "https://www.funawa.jp/fr/40"
+      ]
+    },
+    {
+      "id": "osm:node:13788716901",
+      "name": "Bread & Coffee Ikedayama ブレッド&コーヒー イケダヤマ",
+      "clue": "焙",
+      "reveal_text": "池田山のベーカリーで、店内仕込みのパンと自家焙煎のコーヒーを一緒に味わえる。",
+      "references": [
+        "https://bc-ikedayama.com/"
+      ]
+    }
+  ],
+  "coverage_audit": {
+    "routing": "Same offline OpenStreetMap pedestrian-network scenarios as revision 200.",
+    "scenarios": 336,
+    "with_candidate_before": 149,
+    "with_candidate_after": 149
+  }
+}

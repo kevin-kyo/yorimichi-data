@@ -434,12 +434,13 @@
         "longitude": 139.7971188
       },
       "created_at": "2026-11-08T08:46:12+00:00",
+      "destinationClue": "芋",
       "discoveryScore": 78,
       "discovery_reason": "公式の施設・利用案内を確認",
       "id": "osm:node:10734406024",
-      "interestReason": "店舗の公式案内で所在地と通常営業時間を確認した立ち寄り先です。",
+      "interestReason": "雷門のそば、芋ようかんの舟和が開いたカフェ。ひと休みするなら、さつまいもの甘みを楽しもう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "ふなわかふぇ 浅草店",
       "nearest_stations": [
         {
@@ -503,7 +504,7 @@
       "types": [
         "cafe"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -833,12 +834,13 @@
         "longitude": 139.7013091
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "銅",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:11991698170",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "新宿駅の新南改札の外に、Suicaのペンギンが銅像になって立っている。足元には広場、すぐそばには線路がある。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "Suicaのペンギン",
       "nearest_stations": [
         {
@@ -929,7 +931,7 @@
       "types": [
         "public_art"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -1323,12 +1325,13 @@
         "longitude": 139.7252933
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "焙",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:13788716901",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "池田山のベーカリーで、店内仕込みのパンと自家焙煎のコーヒーを一緒に味わえる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "Bread & Coffee Ikedayama ブレッド&コーヒー イケダヤマ",
       "nearest_stations": [
         {
@@ -1392,7 +1395,7 @@
       "types": [
         "bakery"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -3970,12 +3973,13 @@
         "longitude": 139.8085579
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "塔",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:14273608",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "木場公園大橋の高い主塔を見上げよう。斜めに伸びるケーブルが、離れた広場からもよく見える。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "木場公園",
       "nearest_stations": [
         {
@@ -4039,7 +4043,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -4248,12 +4252,13 @@
         "longitude": 139.5903382
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "島",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:17376006",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "上の池には二つの中島。岸を歩きながら、弁財天をまつる大きい方の島を探そう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "善福寺公園",
       "nearest_stations": [
         {
@@ -4299,7 +4304,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -5569,12 +5574,13 @@
         "longitude": 139.64463655
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "丘",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:1058118415",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "かつての遊園地の一角にできた「花の丘」。川沿いの園路から丘の方へ歩くと、地形の変化がわかる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "練馬城址公園",
       "nearest_stations": [
         {
@@ -5611,7 +5617,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -7002,12 +7008,13 @@
         "longitude": 139.69636325
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "響",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:136608990",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "道玄坂の音楽喫茶。席に着いたら、大きなスピーカーから流れるクラシックに耳を傾けてみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "名曲喫茶ライオン",
       "nearest_stations": [
         {
@@ -7080,7 +7087,7 @@
       "types": [
         "cafe"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -7220,12 +7227,13 @@
         "longitude": 139.7360988
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "透",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:143516722",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "ゆるい坂を上がると、木の柱とガラスの社殿が現れる。外から、屋根と空がどう重なるか眺めてみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "赤城神社",
       "nearest_stations": [
         {
@@ -7316,7 +7324,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -7640,12 +7648,13 @@
         "longitude": 139.6740165
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "角",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:145524218",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "六賢台を外から見上げると、朱色の建物に六つの角がある。屋根の輪郭を目でたどってみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "哲学堂公園",
       "nearest_stations": [
         {
@@ -7657,7 +7666,7 @@
           "station_id": "osm:node:7600588282:Toei.Oedo:8314631137"
         }
       ],
-      "openingHours": null,
+      "openingHours": "Mo-Su 09:00-17:00; Dec 29-Dec 31 off",
       "railway_lines": [
         "Toei.Oedo"
       ],
@@ -7682,7 +7691,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -7792,12 +7801,13 @@
         "longitude": 139.87487744999999
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "幹",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:149320360",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "メタセコイアの森で、空へすっと伸びる幹を見上げよう。足元から梢まで、まっすぐな線が続く。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "水元公園",
       "nearest_stations": [],
       "openingHours": "24/7",
@@ -7823,7 +7833,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -8203,12 +8213,13 @@
         "longitude": 139.7938336
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "心",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:157050769",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "池の名前は心字池。園内の地図と岸の曲がり方を見比べて、「心」の字を探してみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "旧安田庭園",
       "nearest_stations": [
         {
@@ -8252,7 +8263,7 @@
           "station_id": "osm:node:6329063602:TokyoMetro.Ginza:8300121097"
         }
       ],
-      "openingHours": null,
+      "openingHours": "Mo-Su 09:00-16:30; Dec 29-Jan 01 off",
       "railway_lines": [
         "JR-East.ChuoSobuLocal",
         "Toei.Oedo",
@@ -8281,7 +8292,7 @@
       "types": [
         "garden"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -9520,12 +9531,13 @@
         "longitude": 139.7959524
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "藁",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:173154847",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "仲見世から宝蔵門をくぐったら振り返ってみよう。本堂側に、人の背丈を超える大わらじが掛かっている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "浅草寺",
       "nearest_stations": [
         {
@@ -9589,7 +9601,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -11660,12 +11672,13 @@
         "longitude": 139.66559560000002
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "墳",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:270138600",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "丘の園路には古墳がいくつも並ぶ。案内板を手がかりに、木々に覆われた盛り土の輪郭をたどろう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "多摩川台公園",
       "nearest_stations": [],
       "openingHours": null,
@@ -11691,7 +11704,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -11762,12 +11775,13 @@
         "longitude": 139.6905478
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "馬",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:27719790",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "池のほとり、千束八幡神社の近くに名馬・池月の像が立つ。水辺の景色の中に馬の姿を探してみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "洗足池公園",
       "nearest_stations": [],
       "openingHours": null,
@@ -11793,7 +11807,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -12326,12 +12340,13 @@
         "longitude": 139.7399916
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "龍",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:325692053",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "石段の手前に立つ鳥居の柱には二頭の龍。一方は昇り、もう一方は下りる姿に彫られている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "品川神社",
       "nearest_stations": [
         {
@@ -12368,7 +12383,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -12925,12 +12940,13 @@
         "longitude": 139.7387497
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "車",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:38017808",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "遊具広場に、かつて飛鳥山の横を走っていた都電6080が停まっている。車体の番号を探そう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "飛鳥山公園",
       "nearest_stations": [
         {
@@ -12950,7 +12966,7 @@
           "station_id": "osm:node:5819088208:Toei.Mita:8037420270"
         }
       ],
-      "openingHours": "Mar-Nov Mo-Su 09:00-16:30; Dec-Feb Mo-Su 09:00-16:00",
+      "openingHours": "24/7",
       "railway_lines": [
         "TokyoMetro.Namboku",
         "Toei.Mita"
@@ -12976,7 +12992,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -14031,12 +14047,13 @@
         "longitude": 139.7607627
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "朱",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:464629204",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "乙女稲荷へ続く朱色の鳥居。入口から、鳥居の輪郭が奥へ重なっていく景色を眺めてみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "根津神社",
       "nearest_stations": [
         {
@@ -14118,7 +14135,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -14556,12 +14573,13 @@
         "longitude": 139.73993205
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "猿",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:509411458",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "社殿の両脇を見比べると、神さまの使いとされる二体の神猿像がいる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "日枝神社",
       "nearest_stations": [
         {
@@ -14670,7 +14688,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -15241,12 +15259,13 @@
         "longitude": 139.7721306
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "翼",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:540410517",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "本堂の正面で、翼を持つ石の獅子を見つけよう。ほかの動物像も、境内のあちこちに隠れている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "築地本願寺",
       "nearest_stations": [
         {
@@ -15364,7 +15383,7 @@
       "types": [
         "buddhist_temple"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -18523,12 +18542,13 @@
         "longitude": 139.80476414999998
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "牛",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:716178336",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "境内に横たわる石の「撫牛」を探そう。伏せた体と、顔を上げた姿が目印。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:25:24+00:00",
       "name": "牛嶋神社",
       "nearest_stations": [
         {
@@ -18592,7 +18612,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:25:24+00:00"
     },
     {
       "admissionRequired": false,
@@ -21268,6 +21288,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 200,
+  "revision": 201,
   "schema_version": 1
 }
