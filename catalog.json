@@ -11506,7 +11506,7 @@
           "attribution": "Wikidata contributors",
           "license": "CC0-1.0",
           "provider": "wikidata",
-          "retrieved_at": "2026-11-11T00:00:55+00:00",
+          "retrieved_at": "2026-11-24T04:17:56+00:00",
           "source_id": "wikidata:Q11279134",
           "source_updated_at": "2021-07-01T13:52:33Z",
           "source_url": "https://www.wikidata.org/wiki/Q11279134"
@@ -11518,7 +11518,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-11T00:00:56+00:00"
+      "updated_at": "2026-11-24T04:17:57+00:00"
     },
     {
       "admissionRequired": false,
@@ -18826,6 +18826,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 198,
+  "revision": 199,
   "schema_version": 1
 }
