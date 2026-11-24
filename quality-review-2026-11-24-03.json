@@ -1,0 +1,212 @@
+{
+  "checked_on": "2026-11-24",
+  "title": "街の手ざわり",
+  "base_revision": 201,
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "places": [
+    {
+      "id": "osm:node:10314186082",
+      "name": "おいもやさん興伸",
+      "clue": "蜜",
+      "reveal_text": "浅草の芋菓子店。揚げたさつまいもをつやのある蜜で包んだ大学芋が看板。",
+      "references": [
+        "https://oimoyasan.com/",
+        "https://shop.oimoyasan.com/"
+      ]
+    },
+    {
+      "id": "osm:node:10553722974",
+      "name": "マーメイドコーヒーロースターズ 池袋本店",
+      "clue": "豆",
+      "reveal_text": "池袋のコーヒーロースター。少量ずつ焙煎した豆の中から、好みの風味を探してみよう。",
+      "references": [
+        "https://agooddiner.com/about-mermaid-coffee/"
+      ]
+    },
+    {
+      "id": "osm:node:13172376701",
+      "name": "ISHIYA NIHONBASHI",
+      "clue": "咲",
+      "reveal_text": "パンケーキを囲むフィルムを持ち上げると、ソースが広がって皿の上に花が咲く。",
+      "references": [
+        "https://www.ishiya.co.jp/shop/001328.html",
+        "https://www.ishiya.co.jp/shop/nihonbashi_260908.pdf"
+      ]
+    },
+    {
+      "id": "osm:node:14027510032",
+      "name": "YURINAN 原宿本店",
+      "clue": "餡",
+      "reveal_text": "竹下通りのどら焼き専門店。丸い生地の間に、あんやバターを挟んだ一品が並ぶ。",
+      "references": [
+        "https://yurinan.net/pages/harajukutakeshitastreetyurinan",
+        "https://yurinan.net/"
+      ]
+    },
+    {
+      "id": "osm:node:14188380701",
+      "name": "夏目坂珈琲",
+      "clue": "坂",
+      "reveal_text": "夏目漱石の生誕地にちなむ夏目坂の近く。住宅街の小さなカフェで、宮島のロースターが焙煎したコーヒーを楽しめる。",
+      "references": [
+        "https://www.natsumezaka.coffee/about"
+      ]
+    },
+    {
+      "id": "osm:node:6179376707",
+      "name": "THE CITY BAKERY 中目黒駅",
+      "clue": "塩",
+      "reveal_text": "改札前のベーカリー。看板のプレッツェルクロワッサンには、甘みのある生地に岩塩とゴマがのっている。",
+      "references": [
+        "https://thecitybakery.jp/shop/nakameguro",
+        "https://thecitybakery.jp/menu"
+      ]
+    },
+    {
+      "id": "osm:node:7454130385",
+      "name": "吉田パン",
+      "clue": "挟",
+      "reveal_text": "亀有のコッペパン専門店。甘い具もおかずも、細長いパンに挟んで楽しめる。売り切れ次第閉店。",
+      "references": [
+        "https://www.yoshidapan.jp/"
+      ],
+      "opening_hours": "Mo-Su 08:00-17:00",
+      "hours_note": "通常の営業時間。不定休と、売り切れによる早仕舞いあり。"
+    },
+    {
+      "id": "osm:node:1891354183",
+      "name": "松陰神社",
+      "clue": "塾",
+      "reveal_text": "境内の小さな木造家屋は、吉田松陰が教えた萩の松下村塾を再現したもの。外から塾舎の佇まいを眺めよう。",
+      "references": [
+        "https://www.shoinjinja.org/map/"
+      ],
+      "opening_hours": "Mo-Su 07:00-17:00"
+    },
+    {
+      "id": "osm:way:89431876",
+      "name": "神田明神",
+      "clue": "兎",
+      "reveal_text": "隨神門をくぐったら境内側から振り返ろう。神話を描いた彫刻に、因幡の白兎が隠れている。",
+      "references": [
+        "https://www.kandamyoujin.or.jp/keidai/"
+      ]
+    },
+    {
+      "id": "osm:way:46954688",
+      "name": "世田谷八幡宮",
+      "clue": "土",
+      "reveal_text": "鳥居をくぐって右手の階段へ。奉納相撲が行われる丸い土俵が、境内に残っている。",
+      "references": [
+        "https://80000.or.jp/keidai.html",
+        "https://www.tokyu.co.jp/area/miyanosaka/article/arti-01KE8CD9YXGVT49EX9H9QE378G/"
+      ]
+    },
+    {
+      "id": "osm:way:440560885",
+      "name": "馬橋稲荷神社",
+      "clue": "鈴",
+      "reveal_text": "参道の奥、随神門で頭上を見上げてみよう。門の中に大きな鈴が掛かっている。",
+      "references": [
+        "https://www.mabashiinari.org/",
+        "https://www.mabashiinari.org/sanpai/",
+        "https://experience-suginami.tokyo/exstcms/wp-content/uploads/2020/07/shrineguide_2.pdf"
+      ]
+    },
+    {
+      "id": "osm:way:98402891",
+      "name": "水天宮",
+      "clue": "仔",
+      "reveal_text": "境内の「子宝いぬ」は、母犬が子犬を見つめる像。その周りには十二支が並んでいる。",
+      "references": [
+        "https://www.suitengu.or.jp/annai",
+        "https://www.suitengu.or.jp/%E5%8F%82%E6%8B%9D%E6%99%82%E9%96%93%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85"
+      ],
+      "opening_hours": "Mo-Su 07:00-18:00"
+    },
+    {
+      "id": "osm:way:107875788",
+      "name": "世田谷公園",
+      "clue": "機",
+      "reveal_text": "交通広場に保存されている蒸気機関車。先頭に付いた「D51 272」の番号を探してみよう。",
+      "references": [
+        "https://www.city.setagaya.lg.jp/02075/9095.html",
+        "https://www.city.setagaya.lg.jp/documents/4887/kouengaiyou.pdf"
+      ],
+      "opening_hours": "Mo-Su 09:00-16:30; Dec 29-Jan 03 off",
+      "hours_note": "展示機関車がある交通広場の利用時間。通年で短い冬季時間を適用。"
+    },
+    {
+      "id": "osm:way:175996472",
+      "name": "元町公園",
+      "clue": "壁",
+      "reveal_text": "正門から階段を上ると、アーチ模様の壁泉が目に入る。震災復興期の公園に残る水辺の意匠。",
+      "references": [
+        "https://www.city.bunkyo.lg.jp/b036/p004881.html",
+        "https://www.city.bunkyo.lg.jp/b036/p004918/index.html"
+      ]
+    },
+    {
+      "id": "osm:way:689336469",
+      "name": "葛西臨海公園",
+      "clue": "輪",
+      "reveal_text": "空を大きく切り取る「ダイヤと花の大観覧車」。芝生側から、潮風の中に浮かぶ輪を見上げよう。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/kasairinkai/"
+      ]
+    },
+    {
+      "id": "osm:way:27620248",
+      "name": "駒沢オリンピック公園",
+      "clue": "塔",
+      "reveal_text": "中央広場の大階段を上がると、段を重ねたオリンピック記念塔が視界に入る。階段の下と上で見え方を比べてみよう。",
+      "references": [
+        "https://www.tef.or.jp/kopgp/park/index.html"
+      ]
+    },
+    {
+      "id": "osm:way:540211908",
+      "name": "芝浦南ふ頭公園",
+      "clue": "虹",
+      "reveal_text": "水辺の園路から見上げると、レインボーブリッジが頭上近くを通る。吊り橋の大きさを真下から感じられる場所。",
+      "references": [
+        "https://www.gotokyo.org/jp/spot/1166/index.html",
+        "https://www.kouwan.metro.tokyo.lg.jp/kanko/park/search"
+      ]
+    },
+    {
+      "id": "osm:way:690905576",
+      "name": "春海橋公園",
+      "clue": "線",
+      "reveal_text": "昔の貨物線が渡った鉄道橋が、今は運河を横切る遊歩道になっている。岸から橋のアーチを眺めよう。",
+      "references": [
+        "https://www.metro.tokyo.lg.jp/information/press/2025/09/2025090519"
+      ]
+    },
+    {
+      "id": "osm:way:95356243",
+      "name": "蚕糸の森公園",
+      "clue": "煉",
+      "reveal_text": "東高円寺側の入口に残る煉瓦の門。公園になる前、ここにあった蚕糸試験場の面影を伝えている。",
+      "references": [
+        "https://www.locationbox.metro.tokyo.lg.jp/location/list/376/",
+        "https://www.suginamigaku.org/2015/12/sanshi-no-mori-park.html"
+      ]
+    },
+    {
+      "id": "osm:relation:10288254",
+      "name": "猿江恩賜公園",
+      "clue": "材",
+      "reveal_text": "北園の「ミニ木蔵」は、材木を水に浮かべて保管した貯木場の再現。岸の切石にも昔の仕事の跡が残る。",
+      "references": [
+        "https://tokyo-eastpark.com/parksearch/sarueonshi"
+      ]
+    }
+  ],
+  "coverage_audit": {
+    "routing": "Same offline OpenStreetMap pedestrian-network scenarios as the previous catalog revision.",
+    "scenarios": 336,
+    "with_candidate_before": 149,
+    "with_candidate_after": 149
+  }
+}

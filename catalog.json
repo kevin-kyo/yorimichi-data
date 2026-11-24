@@ -140,12 +140,13 @@
         "longitude": 139.7966037
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "蜜",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:10314186082",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "浅草の芋菓子店。揚げたさつまいもをつやのある蜜で包んだ大学芋が看板。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "おいもやさん興伸",
       "nearest_stations": [
         {
@@ -218,7 +219,7 @@
       "types": [
         "confectionery"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -238,12 +239,13 @@
         "longitude": 139.7154991
       },
       "created_at": "2026-11-08T08:46:12+00:00",
+      "destinationClue": "豆",
       "discoveryScore": 78,
       "discovery_reason": "公式の施設・利用案内を確認",
       "id": "osm:node:10553722974",
-      "interestReason": "店舗の公式案内で所在地と通常営業時間を確認した立ち寄り先です。",
+      "interestReason": "池袋のコーヒーロースター。少量ずつ焙煎した豆の中から、好みの風味を探してみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "マーメイドコーヒーロースターズ 池袋本店",
       "nearest_stations": [
         {
@@ -307,7 +309,7 @@
       "types": [
         "cafe"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -1002,12 +1004,13 @@
         "longitude": 139.7728322
       },
       "created_at": "2026-11-08T08:46:12+00:00",
+      "destinationClue": "咲",
       "discoveryScore": 78,
       "discovery_reason": "公式の施設・利用案内を確認",
       "id": "osm:node:13172376701",
-      "interestReason": "店舗の公式案内で所在地と通常営業時間を確認した立ち寄り先です。",
+      "interestReason": "パンケーキを囲むフィルムを持ち上げると、ソースが広がって皿の上に花が咲く。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "ISHIYA NIHONBASHI",
       "nearest_stations": [
         {
@@ -1143,7 +1146,7 @@
       "types": [
         "cafe"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -1415,12 +1418,13 @@
         "longitude": 139.7058849
       },
       "created_at": "2026-11-08T08:46:12+00:00",
+      "destinationClue": "餡",
       "discoveryScore": 78,
       "discovery_reason": "公式の施設・利用案内を確認",
       "id": "osm:node:14027510032",
-      "interestReason": "店舗の公式案内で所在地と通常営業時間を確認した立ち寄り先です。",
+      "interestReason": "竹下通りのどら焼き専門店。丸い生地の間に、あんやバターを挟んだ一品が並ぶ。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "YURINAN 原宿本店",
       "nearest_stations": [
         {
@@ -1511,7 +1515,7 @@
       "types": [
         "cafe"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -1531,12 +1535,13 @@
         "longitude": 139.7200862
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "坂",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:14188380701",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "夏目漱石の生誕地にちなむ夏目坂の近く。住宅街の小さなカフェで、宮島のロースターが焙煎したコーヒーを楽しめる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "夏目坂珈琲",
       "nearest_stations": [
         {
@@ -1609,7 +1614,7 @@
       "types": [
         "cafe"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -1629,15 +1634,16 @@
         "longitude": 139.6561244
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "塾",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:node:1891354183",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "境内の小さな木造家屋は、吉田松陰が教えた萩の松下村塾を再現したもの。外から塾舎の佇まいを眺めよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "松陰神社",
       "nearest_stations": [],
-      "openingHours": null,
+      "openingHours": "Mo-Su 07:00-17:00",
       "railway_lines": [],
       "source": "osm-curated",
       "source_licenses": [
@@ -1660,7 +1666,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -3248,12 +3254,13 @@
         "longitude": 139.6984864
       },
       "created_at": "2026-11-08T08:46:12+00:00",
+      "destinationClue": "塩",
       "discoveryScore": 78,
       "discovery_reason": "公式の施設・利用案内を確認",
       "id": "osm:node:6179376707",
-      "interestReason": "店舗の公式案内で所在地と通常営業時間を確認した立ち寄り先です。",
+      "interestReason": "改札前のベーカリー。看板のプレッツェルクロワッサンには、甘みのある生地に岩塩とゴマがのっている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "THE CITY BAKERY 中目黒駅",
       "nearest_stations": [
         {
@@ -3299,7 +3306,7 @@
       "types": [
         "bakery"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -3408,15 +3415,16 @@
         "longitude": 139.8495495
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "挟",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:7454130385",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "亀有のコッペパン専門店。甘い具もおかずも、細長いパンに挟んで楽しめる。売り切れ次第閉店。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "吉田パン",
       "nearest_stations": [],
-      "openingHours": "Mo-Su 07:30-17:30",
+      "openingHours": "Mo-Su 08:00-17:00",
       "railway_lines": [],
       "source": "osm-curated",
       "source_licenses": [
@@ -3439,7 +3447,7 @@
       "types": [
         "bakery"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -3697,12 +3705,13 @@
         "longitude": 139.8183119
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "材",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:10288254",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "北園の「ミニ木蔵」は、材木を水に浮かべて保管した貯木場の再現。岸の切石にも昔の仕事の跡が残る。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "猿江恩賜公園",
       "nearest_stations": [
         {
@@ -3757,7 +3766,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -6038,15 +6047,16 @@
         "longitude": 139.68161765000002
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "機",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:107875788",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "交通広場に保存されている蒸気機関車。先頭に付いた「D51 272」の番号を探してみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "世田谷公園",
       "nearest_stations": [],
-      "openingHours": null,
+      "openingHours": "Mo-Su 09:00-16:30; Dec 29-Jan 03 off",
       "railway_lines": [],
       "source": "osm-curated",
       "source_licenses": [
@@ -6069,7 +6079,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -9621,12 +9631,13 @@
         "longitude": 139.7581029
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "壁",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:175996472",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "正門から階段を上ると、アーチ模様の壁泉が目に入る。震災復興期の公園に残る水辺の意匠。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "元町公園",
       "nearest_stations": [
         {
@@ -9771,7 +9782,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -11724,12 +11735,13 @@
         "longitude": 139.6608655
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "塔",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:27620248",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "中央広場の大階段を上がると、段を重ねたオリンピック記念塔が視界に入る。階段の下と上で見え方を比べてみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "駒沢オリンピック公園",
       "nearest_stations": [],
       "openingHours": "24/7",
@@ -11755,7 +11767,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -13366,12 +13378,13 @@
         "longitude": 139.64256995
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "鈴",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:440560885",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "参道の奥、随神門で頭上を見上げてみよう。門の中に大きな鈴が掛かっている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "馬橋稲荷神社",
       "nearest_stations": [
         {
@@ -13426,7 +13439,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -14257,12 +14270,13 @@
         "longitude": 139.6445543
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "土",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:46954688",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "鳥居をくぐって右手の階段へ。奉納相撲が行われる丸い土俵が、境内に残っている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "世田谷八幡宮",
       "nearest_stations": [],
       "openingHours": null,
@@ -14288,7 +14302,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -15197,12 +15211,13 @@
         "longitude": 139.7597886
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "虹",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:540211908",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "水辺の園路から見上げると、レインボーブリッジが頭上近くを通る。吊り橋の大きさを真下から感じられる場所。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "芝浦南ふ頭公園",
       "nearest_stations": [
         {
@@ -15239,7 +15254,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -17895,12 +17910,13 @@
         "longitude": 139.8619281
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "輪",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:689336469",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "空を大きく切り取る「ダイヤと花の大観覧車」。芝生側から、潮風の中に浮かぶ輪を見上げよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "葛西臨海公園",
       "nearest_stations": [],
       "openingHours": "24/7",
@@ -17926,7 +17942,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -17946,12 +17962,13 @@
         "longitude": 139.79218020000002
       },
       "created_at": "2026-11-08T08:46:12+00:00",
+      "destinationClue": "線",
       "discoveryScore": 78,
       "discovery_reason": "公式の施設・利用案内を確認",
       "id": "osm:way:690905576",
-      "interestReason": "管理者の案内で一般利用を確認した散策スポットです。",
+      "interestReason": "昔の貨物線が渡った鉄道橋が、今は運河を横切る遊歩道になっている。岸から橋のアーチを眺めよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "春海橋公園",
       "nearest_stations": [
         {
@@ -17997,7 +18014,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -19991,12 +20008,13 @@
         "longitude": 139.7677523
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "兎",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:89431876",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "隨神門をくぐったら境内側から振り返ろう。神話を描いた彫刻に、因幡の白兎が隠れている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "神田明神",
       "nearest_stations": [
         {
@@ -20132,7 +20150,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -20715,12 +20733,13 @@
         "longitude": 139.65670565
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "煉",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:95356243",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "東高円寺側の入口に残る煉瓦の門。公園になる前、ここにあった蚕糸試験場の面影を伝えている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "蚕糸の森公園",
       "nearest_stations": [
         {
@@ -20784,7 +20803,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -21082,12 +21101,13 @@
         "longitude": 139.7851858
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "仔",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:98402891",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "境内の「子宝いぬ」は、母犬が子犬を見つめる像。その周りには十二支が並んでいる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:34:14+00:00",
       "name": "水天宮",
       "nearest_stations": [
         {
@@ -21155,7 +21175,7 @@
           "station_id": "osm:node:5826439470:JR-East.ChuoRapid:3589537656"
         }
       ],
-      "openingHours": null,
+      "openingHours": "Mo-Su 07:00-18:00",
       "railway_lines": [
         "TokyoMetro.Hanzomon",
         "Toei.Asakusa",
@@ -21187,7 +21207,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:34:14+00:00"
     },
     {
       "admissionRequired": false,
@@ -21288,6 +21308,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 201,
+  "revision": 202,
   "schema_version": 1
 }
