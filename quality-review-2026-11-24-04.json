@@ -1,0 +1,217 @@
+{
+  "checked_on": "2026-11-24",
+  "title": "街角に残るかたち",
+  "base_revision": 202,
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "places": [
+    {
+      "id": "osm:node:12113955547",
+      "name": "ネパリコ",
+      "clue": "匙",
+      "reveal_text": "駒沢のネパール料理店。ダルの豆スープとおかずをご飯に少しずつ混ぜ、ひと匙ごとに味を変えて楽しむダルバート。",
+      "references": [
+        "https://www.nepalico.com/komazawa.html",
+        "https://www.oishiimono-navi.com/gourmet/nepalico/"
+      ],
+      "opening_hours": "Mo-Su 11:30-14:30",
+      "hours_note": "全曜日の昼の営業を確認。昼のラストオーダーまでを採用。夜営業もあるが、昼休憩を含めないため案内対象は昼のみ。"
+    },
+    {
+      "id": "osm:node:3047251661",
+      "name": "鰻 駒形 前川",
+      "clue": "蒲",
+      "reveal_text": "隅田川沿いの浅草本店。醤油とみりんのたれをまとった蒲焼きが、この店の昔ながらの味。",
+      "references": [
+        "https://www.unagi-maekawa.com/shop/",
+        "https://www.komagata-maekawa.com/brand/unagi-maekawa/"
+      ]
+    },
+    {
+      "id": "osm:node:6268933238",
+      "name": "ボンジュール・ボン",
+      "clue": "楓",
+      "reveal_text": "中野サンモールのパン屋さん。丸いメロンパンを割ると、メープルバターが香る。",
+      "references": [
+        "https://bonjourbon.com/"
+      ]
+    },
+    {
+      "id": "osm:node:8398561417",
+      "name": "鈴波みりん粕漬鈴波",
+      "clue": "粕",
+      "reveal_text": "六本木の東京ミッドタウンにある魚のみりん粕漬の店。売店には漬魚が並び、隣の膳処では焼き魚を定食で味わえる。",
+      "references": [
+        "https://6mirai.tokyo-midtown.com/blog/202412/23/4549.html",
+        "https://www.suzunami.co.jp/shop.html"
+      ],
+      "hours_note": "カタログの11:00–21:00は売店。膳処は中休みがある。"
+    },
+    {
+      "id": "osm:node:8512094818",
+      "name": "ブーランジェリー オーヴェルニュ",
+      "clue": "煮",
+      "reveal_text": "立石のベーカリー。牛肉を煮込んで作るカレーパンには、角切り肉がごろっと入っている。",
+      "references": [
+        "https://japan-cup.com/img/Japancup2024_panf-web.pdf",
+        "https://www.nisshin.com/welnavi/shop/detail_001.html"
+      ]
+    },
+    {
+      "id": "osm:node:2258202675",
+      "name": "小網神社",
+      "clue": "銭",
+      "reveal_text": "社殿の左手にある小さな「銭洗いの井」。ここで洗ったお金を財布にしまう風習がある。",
+      "references": [
+        "https://www.koamijinja.or.jp/precinct/"
+      ]
+    },
+    {
+      "id": "osm:way:144430257",
+      "name": "東京大神宮",
+      "clue": "猪",
+      "reveal_text": "神門の飾り金具に目を凝らすと、小さなハートが見つかる。「猪目」と呼ばれる昔ながらの文様。",
+      "references": [
+        "https://news.1242.com/article/512827",
+        "https://www.tokyodaijingu.or.jp/",
+        "https://www.gotokyo.org/jp/spot/42/index.html"
+      ]
+    },
+    {
+      "id": "osm:way:516751953",
+      "name": "湯島天満宮",
+      "clue": "筆",
+      "reveal_text": "境内の片隅に泉鏡花の筆塚がある。小説『婦系図』を舞台にしたとき、この天神さまが二人の別れの場所になった。",
+      "references": [
+        "https://www.yushimatenjin.or.jp/map/"
+      ],
+      "opening_hours": "Mo-Su 06:00-20:00",
+      "hours_note": "神社公式の境内開門時間。"
+    },
+    {
+      "id": "osm:way:364603042",
+      "name": "阿佐谷神明宮",
+      "clue": "能",
+      "reveal_text": "境内に入ったら、能楽殿の舞台を探してみよう。能や狂言、地元の阿佐ヶ谷囃子が奉納される場所。",
+      "references": [
+        "https://shinmeiguu.com/keidai/"
+      ],
+      "opening_hours": "Mo-Su 06:00-17:00",
+      "hours_note": "神社公式の月別開閉門表より、通常の全年月に共通する時間帯を採用。"
+    },
+    {
+      "id": "osm:way:616241895",
+      "name": "富岡八幡宮",
+      "clue": "綱",
+      "reveal_text": "社殿右手の奥に、江戸の勧進相撲ゆかりの横綱力士碑。裏へ回ると歴代横綱のしこ名が刻まれている。",
+      "references": [
+        "https://www.sumo.or.jp/Entertainment/quiz/1475",
+        "https://www.city.koto.lg.jp/011501/kuse/koho/kuho/h29/documents/071108.pdf"
+      ]
+    },
+    {
+      "id": "osm:way:325692055",
+      "name": "荏原神社",
+      "clue": "朱",
+      "reveal_text": "目黒川にかかる赤い鎮守橋が目印。川沿いから、橋の向こうに旧東海道の鎮守を眺められる。",
+      "references": [
+        "https://shinagawa-kanko.or.jp/location/contents/2021_0428_223/",
+        "https://shinagawa-kanko.or.jp/spot/ebarajinja/"
+      ]
+    },
+    {
+      "id": "osm:way:670892103",
+      "name": "多摩川浅間神社",
+      "clue": "望",
+      "reveal_text": "鳥居から階段を上がると、多摩川に向いた見晴台がある。空が澄んでいれば、川の先に富士山が見えることも。",
+      "references": [
+        "https://sengenjinja.info/about/keidai.html",
+        "https://www.gotokyo.org/jp/story/walks-and-tours/waterfront/power_spots/index.html"
+      ]
+    },
+    {
+      "id": "osm:relation:13272644",
+      "name": "新宿中央公園",
+      "clue": "瀑",
+      "reveal_text": "高層ビルの間の水の広場に、幅のある滝が現れる。その名は「新宿ナイアガラ」。点検や荒天時などは水が止まることも。",
+      "references": [
+        "https://shinjukuchuo-park.jp/facilities/north_area/",
+        "https://shinjukuchuo-park.jp/category/rule/"
+      ]
+    },
+    {
+      "id": "osm:way:104112028",
+      "name": "本芝公園",
+      "clue": "舟",
+      "reveal_text": "線路脇の公園に船の形の遊具がある。この辺りがかつて漁師町の海岸だったことを、遊び場のかたちが伝えている。",
+      "references": [
+        "https://minato-park.jp/shiba/parks/honshiba/",
+        "https://www.city.minato.tokyo.jp/documents/12072/up68_web_2.pdf"
+      ]
+    },
+    {
+      "id": "osm:way:169889988",
+      "name": "戸越公園",
+      "clue": "門",
+      "reveal_text": "住宅街の角で出会う薬医門。門をくぐると、肥後細川家の下屋敷の跡に池を一周できる庭が広がる。",
+      "references": [
+        "https://www.city.shinagawa.tokyo.jp/shisetsu/chiikishisetsu/1008264/1008266.html",
+        "https://www.gotokyo.org/book/wp-content/uploads/2026/05/AO_2605_naruhodoebara_low_JP.pdf"
+      ],
+      "opening_hours": "24/7",
+      "hours_note": "しながわ観光協会の2026年版ガイドで常時開放を確認。"
+    },
+    {
+      "id": "osm:way:233044925",
+      "name": "二子玉川公園",
+      "clue": "崖",
+      "reveal_text": "眺望広場で多摩川から国分寺崖線まで見渡せる。川向きの空の広さを、ひと休みしながら眺めてみよう。",
+      "references": [
+        "https://futako-tamagawa-park.ces-net.jp/?page_id=229"
+      ]
+    },
+    {
+      "id": "osm:way:30462674",
+      "name": "都立汐入公園",
+      "clue": "曲",
+      "reveal_text": "隅田川が大きく曲がるところに広がる公園。川沿いを歩くと、岸のカーブに沿って少しずつ眺めが変わっていく。",
+      "references": [
+        "https://www.tokyo-park.or.jp/park/shioiri/",
+        "https://www.tokyo-park.or.jp/park/shioiri/assets/files/shioiri_map.pdf"
+      ]
+    },
+    {
+      "id": "osm:way:34016460",
+      "name": "東白鬚公園",
+      "clue": "壁",
+      "reveal_text": "公園の東に沿って集合住宅が長く並ぶ。火災が広がったときに避難する人を守る、防火壁の役割を持つ建物。",
+      "references": [
+        "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/070328kbetsumphigasisirahige",
+        "https://www.to-kousya.or.jp/k_news/r1_8tokyo-good.html"
+      ]
+    },
+    {
+      "id": "osm:way:520708892",
+      "name": "醸造試験所跡地公園",
+      "clue": "醸",
+      "reveal_text": "芝生広場から、明治時代の醸造試験所の赤煉瓦を眺められる。いまは花壇のある公園に、酒造りを研究した時代の建物が残る。",
+      "references": [
+        "https://www.city.kita.lg.jp/business/industry/1011538/1027066.html"
+      ]
+    },
+    {
+      "id": "osm:way:53542672",
+      "name": "音無親水公園",
+      "clue": "弧",
+      "reveal_text": "石神井川の旧流路を歩き、上を見上げてみよう。音無橋の三つのアーチが、頭上をまたいでいる。",
+      "references": [
+        "https://www.city.kita.lg.jp/culture-tourism-sports/tourism/1010756/1010759/1010762.html"
+      ]
+    }
+  ],
+  "coverage_audit": {
+    "routing": "Same offline OpenStreetMap pedestrian-network scenarios as the previous catalog revision.",
+    "scenarios": 336,
+    "with_candidate_before": 149,
+    "with_candidate_after": 149
+  }
+}

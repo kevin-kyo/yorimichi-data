@@ -953,15 +953,16 @@
         "longitude": 139.6630755
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "匙",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:12113955547",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "駒沢のネパール料理店。ダルの豆スープとおかずをご飯に少しずつ混ぜ、ひと匙ごとに味を変えて楽しむダルバート。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "ネパリコ",
       "nearest_stations": [],
-      "openingHours": "Mo-Su 11:30-23:00",
+      "openingHours": "Mo-Su 11:30-14:30",
       "railway_lines": [],
       "source": "osm-curated",
       "source_licenses": [
@@ -984,7 +985,7 @@
       "types": [
         "restaurant"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -1686,12 +1687,13 @@
         "longitude": 139.7804475
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "銭",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:node:2258202675",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "社殿の左手にある小さな「銭洗いの井」。ここで洗ったお金を財布にしまう風習がある。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "小網神社",
       "nearest_stations": [
         {
@@ -1809,7 +1811,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -1942,12 +1944,13 @@
         "longitude": 139.796316
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "蒲",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:3047251661",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "隅田川沿いの浅草本店。醤油とみりんのたれをまとった蒲焼きが、この店の昔ながらの味。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "鰻 駒形 前川",
       "nearest_stations": [
         {
@@ -2011,7 +2014,7 @@
       "types": [
         "restaurant"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -3326,12 +3329,13 @@
         "longitude": 139.6657058
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "楓",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:6268933238",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "中野サンモールのパン屋さん。丸いメロンパンを割ると、メープルバターが香る。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "ボンジュール・ボン",
       "nearest_stations": [
         {
@@ -3395,7 +3399,7 @@
       "types": [
         "bakery"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -3529,12 +3533,13 @@
         "longitude": 139.7308334
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "粕",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:8398561417",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "六本木の東京ミッドタウンにある魚のみりん粕漬の店。売店には漬魚が並び、隣の膳処では焼き魚を定食で味わえる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "鈴波みりん粕漬鈴波",
       "nearest_stations": [
         {
@@ -3634,7 +3639,7 @@
       "types": [
         "restaurant"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -3654,12 +3659,13 @@
         "longitude": 139.847145
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "煮",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:node:8512094818",
-      "interestReason": "街歩きの途中で立ち寄れる飲食店です。訪問前に営業情報をご確認ください。",
+      "interestReason": "立石のベーカリー。牛肉を煮込んで作るカレーパンには、角切り肉がごろっと入っている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "ブーランジェリー オーヴェルニュ",
       "nearest_stations": [],
       "openingHours": "Mo-Su 07:00-18:00",
@@ -3685,7 +3691,7 @@
       "types": [
         "bakery"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -3786,12 +3792,13 @@
         "longitude": 139.6893859
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "瀑",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:relation:13272644",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "高層ビルの間の水の広場に、幅のある滝が現れる。その名は「新宿ナイアガラ」。点検や荒天時などは水が止まることも。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "新宿中央公園",
       "nearest_stations": [
         {
@@ -3882,7 +3889,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -5319,12 +5326,13 @@
         "longitude": 139.74996629999998
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "舟",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:104112028",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "線路脇の公園に船の形の遊具がある。この辺りがかつて漁師町の海岸だったことを、遊び場のかたちが伝えている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "本芝公園",
       "nearest_stations": [
         {
@@ -5397,7 +5405,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -7354,12 +7362,13 @@
         "longitude": 139.74685805000001
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "猪",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:144430257",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "神門の飾り金具に目を凝らすと、小さなハートが見つかる。「猪目」と呼ばれる昔ながらの文様。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "東京大神宮",
       "nearest_stations": [
         {
@@ -7468,7 +7477,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -9107,12 +9116,13 @@
         "longitude": 139.7217201
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "門",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:169889988",
-      "interestReason": "緑と景観を楽しむ、編集選定の庭園・公園。",
+      "interestReason": "住宅街の角で出会う薬医門。門をくぐると、肥後細川家の下屋敷の跡に池を一周できる庭が広がる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "戸越公園",
       "nearest_stations": [
         {
@@ -9132,7 +9142,7 @@
           "station_id": "wikidata:Q801695"
         }
       ],
-      "openingHours": null,
+      "openingHours": "24/7",
       "railway_lines": [
         "Toei.Asakusa",
         "JR-East.Yamanote"
@@ -9158,7 +9168,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -10814,12 +10824,13 @@
         "longitude": 139.63345844999998
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "崖",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:233044925",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "眺望広場で多摩川から国分寺崖線まで見渡せる。川向きの空の広さを、ひと休みしながら眺めてみよう。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "二子玉川公園",
       "nearest_stations": [],
       "openingHours": null,
@@ -10845,7 +10856,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -12088,12 +12099,13 @@
         "longitude": 139.8109226
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "曲",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:30462674",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "隅田川が大きく曲がるところに広がる公園。川沿いを歩くと、岸のカーブに沿って少しずつ眺めが変わっていく。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "都立汐入公園",
       "nearest_stations": [
         {
@@ -12139,7 +12151,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -12415,12 +12427,13 @@
         "longitude": 139.7435786
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "朱",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:325692055",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "目黒川にかかる赤い鎮守橋が目印。川沿いから、橋の向こうに旧東海道の鎮守を眺められる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "荏原神社",
       "nearest_stations": [
         {
@@ -12457,7 +12470,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -12590,12 +12603,13 @@
         "longitude": 139.81442145
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "壁",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:34016460",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "公園の東に沿って集合住宅が長く並ぶ。火災が広がったときに避難する人を守る、防火壁の役割を持つ建物。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T08:46:12+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "東白鬚公園",
       "nearest_stations": [
         {
@@ -12632,7 +12646,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T08:46:12+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -12714,12 +12728,13 @@
         "longitude": 139.63698829999998
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "能",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:364603042",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "境内に入ったら、能楽殿の舞台を探してみよう。能や狂言、地元の阿佐ヶ谷囃子が奉納される場所。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "阿佐谷神明宮",
       "nearest_stations": [
         {
@@ -12747,7 +12762,7 @@
           "station_id": "osm:node:7600174254:TokyoMetro.Marunouchi:2389061832"
         }
       ],
-      "openingHours": null,
+      "openingHours": "Mo-Su 06:00-17:00",
       "railway_lines": [
         "JR-East.ChuoRapid",
         "JR-East.ChuoSobuLocal",
@@ -12774,7 +12789,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -14722,12 +14737,13 @@
         "longitude": 139.7678622
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "筆",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:516751953",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "境内の片隅に泉鏡花の筆塚がある。小説『婦系図』を舞台にしたとき、この天神さまが二人の別れの場所になった。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "湯島天満宮",
       "nearest_stations": [
         {
@@ -14819,7 +14835,7 @@
           "station_id": "osm:node:1635233888:Toei.Shinjuku:1894258028"
         }
       ],
-      "openingHours": "Mo-Su 08:00-19:30",
+      "openingHours": "Mo-Su 06:00-20:00",
       "railway_lines": [
         "TokyoMetro.Chiyoda",
         "Toei.Oedo",
@@ -14854,7 +14870,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -14874,12 +14890,13 @@
         "longitude": 139.7355131
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "醸",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:520708892",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "芝生広場から、明治時代の醸造試験所の赤煉瓦を眺められる。いまは花壇のある公園に、酒造りを研究した時代の建物が残る。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "醸造試験所跡地公園",
       "nearest_stations": [
         {
@@ -14925,7 +14942,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -15078,12 +15095,13 @@
         "longitude": 139.73587885
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "弧",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:53542672",
-      "interestReason": "公開データに掲載された、街歩きで立ち寄れる自然のスポットです。",
+      "interestReason": "石神井川の旧流路を歩き、上を見上げてみよう。音無橋の三つのアーチが、頭上をまたいでいる。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "音無親水公園",
       "nearest_stations": [
         {
@@ -15129,7 +15147,7 @@
       "types": [
         "park"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -16582,12 +16600,13 @@
         "longitude": 139.799754
       },
       "created_at": "2026-11-07T23:40:27+00:00",
+      "destinationClue": "綱",
       "discoveryScore": 65,
       "discovery_reason": "既存の編集選定",
       "id": "osm:way:616241895",
-      "interestReason": "街の文化に触れる、編集選定の寺社。",
+      "interestReason": "社殿右手の奥に、江戸の勧進相撲ゆかりの横綱力士碑。裏へ回ると歴代横綱のしこ名が刻まれている。",
       "isDemo": false,
-      "last_verified_at": "2026-11-07T23:40:27+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "富岡八幡宮",
       "nearest_stations": [
         {
@@ -16642,7 +16661,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-07T23:40:27+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -17746,12 +17765,13 @@
         "longitude": 139.6688219
       },
       "created_at": "2026-11-08T02:31:20+00:00",
+      "destinationClue": "望",
       "discoveryScore": 0,
       "discovery_reason": "管理者が出典を確認",
       "id": "osm:way:670892103",
-      "interestReason": "公開データに掲載された、街の歴史や文化に触れられるスポットです。",
+      "interestReason": "鳥居から階段を上がると、多摩川に向いた見晴台がある。空が澄んでいれば、川の先に富士山が見えることも。",
       "isDemo": false,
-      "last_verified_at": "2026-11-08T02:31:20+00:00",
+      "last_verified_at": "2026-11-24T12:43:11+00:00",
       "name": "多摩川浅間神社",
       "nearest_stations": [],
       "openingHours": null,
@@ -17777,7 +17797,7 @@
       "types": [
         "shinto_shrine"
       ],
-      "updated_at": "2026-11-08T02:31:20+00:00"
+      "updated_at": "2026-11-24T12:43:11+00:00"
     },
     {
       "admissionRequired": false,
@@ -21308,6 +21328,6 @@
       "updated_at": "2026-11-08T02:31:20+00:00"
     }
   ],
-  "revision": 202,
+  "revision": 203,
   "schema_version": 1
 }
